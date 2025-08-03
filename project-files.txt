@@ -1,0 +1,2980 @@
+Folder PATH listing for volume Windows 
+Volume serial number is D2D8-7477
+C:.
+¦   index.js
+¦   package-lock.json
+¦   package.json
+¦   project-files.txt
+¦   quasar-variables.sass
+¦   vite.config.js
+¦   
++---node_modules
+¦   ¦   .package-lock.json
+¦   ¦   
+¦   +---.bin
+¦   ¦       esbuild
+¦   ¦       esbuild.cmd
+¦   ¦       esbuild.ps1
+¦   ¦       nanoid
+¦   ¦       nanoid.cmd
+¦   ¦       nanoid.ps1
+¦   ¦       parser
+¦   ¦       parser.cmd
+¦   ¦       parser.ps1
+¦   ¦       rollup
+¦   ¦       rollup.cmd
+¦   ¦       rollup.ps1
+¦   ¦       vite
+¦   ¦       vite.cmd
+¦   ¦       vite.ps1
+¦   ¦       
+¦   +---@babel
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---lib
+¦   ¦   ¦           index.js
+¦   ¦   ¦           index.js.map
+¦   ¦   ¦           
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---lib
+¦   ¦   ¦           identifier.js
+¦   ¦   ¦           identifier.js.map
+¦   ¦   ¦           index.js
+¦   ¦   ¦           index.js.map
+¦   ¦   ¦           keyword.js
+¦   ¦   ¦           keyword.js.map
+¦   ¦   ¦           
+¦   ¦   +---parser
+¦   ¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   ¦       babel-parser.js
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.js.map
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---typings
+¦   ¦   ¦           babel-parser.d.ts
+¦   ¦   ¦           
+¦   ¦   +---types
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---lib
+¦   ¦           ¦   index-legacy.d.ts
+¦   ¦           ¦   index.d.ts
+¦   ¦           ¦   index.js
+¦   ¦           ¦   index.js.flow
+¦   ¦           ¦   index.js.map
+¦   ¦           ¦   
+¦   ¦           +---asserts
+¦   ¦           ¦   ¦   assertNode.js
+¦   ¦           ¦   ¦   assertNode.js.map
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---generated
+¦   ¦           ¦           index.js
+¦   ¦           ¦           index.js.map
+¦   ¦           ¦           
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           ¦           index.js
+¦   ¦           ¦           index.js.map
+¦   ¦           ¦           
+¦   ¦           +---builders
+¦   ¦           ¦   ¦   productions.js
+¦   ¦           ¦   ¦   productions.js.map
+¦   ¦           ¦   ¦   validateNode.js
+¦   ¦           ¦   ¦   validateNode.js.map
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   ¦       createFlowUnionType.js
+¦   ¦           ¦   ¦       createFlowUnionType.js.map
+¦   ¦           ¦   ¦       createTypeAnnotationBasedOnTypeof.js
+¦   ¦           ¦   ¦       createTypeAnnotationBasedOnTypeof.js.map
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   ¦       index.js
+¦   ¦           ¦   ¦       index.js.map
+¦   ¦           ¦   ¦       lowercase.js
+¦   ¦           ¦   ¦       lowercase.js.map
+¦   ¦           ¦   ¦       uppercase.js
+¦   ¦           ¦   ¦       uppercase.js.map
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---react
+¦   ¦           ¦   ¦       buildChildren.js
+¦   ¦           ¦   ¦       buildChildren.js.map
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---typescript
+¦   ¦           ¦           createTSUnionType.js
+¦   ¦           ¦           createTSUnionType.js.map
+¦   ¦           ¦           
+¦   ¦           +---clone
+¦   ¦           ¦       clone.js
+¦   ¦           ¦       clone.js.map
+¦   ¦           ¦       cloneDeep.js
+¦   ¦           ¦       cloneDeep.js.map
+¦   ¦           ¦       cloneDeepWithoutLoc.js
+¦   ¦           ¦       cloneDeepWithoutLoc.js.map
+¦   ¦           ¦       cloneNode.js
+¦   ¦           ¦       cloneNode.js.map
+¦   ¦           ¦       cloneWithoutLoc.js
+¦   ¦           ¦       cloneWithoutLoc.js.map
+¦   ¦           ¦       
+¦   ¦           +---comments
+¦   ¦           ¦       addComment.js
+¦   ¦           ¦       addComment.js.map
+¦   ¦           ¦       addComments.js
+¦   ¦           ¦       addComments.js.map
+¦   ¦           ¦       inheritInnerComments.js
+¦   ¦           ¦       inheritInnerComments.js.map
+¦   ¦           ¦       inheritLeadingComments.js
+¦   ¦           ¦       inheritLeadingComments.js.map
+¦   ¦           ¦       inheritsComments.js
+¦   ¦           ¦       inheritsComments.js.map
+¦   ¦           ¦       inheritTrailingComments.js
+¦   ¦           ¦       inheritTrailingComments.js.map
+¦   ¦           ¦       removeComments.js
+¦   ¦           ¦       removeComments.js.map
+¦   ¦           ¦       
+¦   ¦           +---constants
+¦   ¦           ¦   ¦   index.js
+¦   ¦           ¦   ¦   index.js.map
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---generated
+¦   ¦           ¦           index.js
+¦   ¦           ¦           index.js.map
+¦   ¦           ¦           
+¦   ¦           +---converters
+¦   ¦           ¦       ensureBlock.js
+¦   ¦           ¦       ensureBlock.js.map
+¦   ¦           ¦       gatherSequenceExpressions.js
+¦   ¦           ¦       gatherSequenceExpressions.js.map
+¦   ¦           ¦       toBindingIdentifierName.js
+¦   ¦           ¦       toBindingIdentifierName.js.map
+¦   ¦           ¦       toBlock.js
+¦   ¦           ¦       toBlock.js.map
+¦   ¦           ¦       toComputedKey.js
+¦   ¦           ¦       toComputedKey.js.map
+¦   ¦           ¦       toExpression.js
+¦   ¦           ¦       toExpression.js.map
+¦   ¦           ¦       toIdentifier.js
+¦   ¦           ¦       toIdentifier.js.map
+¦   ¦           ¦       toKeyAlias.js
+¦   ¦           ¦       toKeyAlias.js.map
+¦   ¦           ¦       toSequenceExpression.js
+¦   ¦           ¦       toSequenceExpression.js.map
+¦   ¦           ¦       toStatement.js
+¦   ¦           ¦       toStatement.js.map
+¦   ¦           ¦       valueToNode.js
+¦   ¦           ¦       valueToNode.js.map
+¦   ¦           ¦       
+¦   ¦           +---definitions
+¦   ¦           ¦       core.js
+¦   ¦           ¦       core.js.map
+¦   ¦           ¦       deprecated-aliases.js
+¦   ¦           ¦       deprecated-aliases.js.map
+¦   ¦           ¦       experimental.js
+¦   ¦           ¦       experimental.js.map
+¦   ¦           ¦       flow.js
+¦   ¦           ¦       flow.js.map
+¦   ¦           ¦       index.js
+¦   ¦           ¦       index.js.map
+¦   ¦           ¦       jsx.js
+¦   ¦           ¦       jsx.js.map
+¦   ¦           ¦       misc.js
+¦   ¦           ¦       misc.js.map
+¦   ¦           ¦       placeholders.js
+¦   ¦           ¦       placeholders.js.map
+¦   ¦           ¦       typescript.js
+¦   ¦           ¦       typescript.js.map
+¦   ¦           ¦       utils.js
+¦   ¦           ¦       utils.js.map
+¦   ¦           ¦       
+¦   ¦           +---modifications
+¦   ¦           ¦   ¦   appendToMemberExpression.js
+¦   ¦           ¦   ¦   appendToMemberExpression.js.map
+¦   ¦           ¦   ¦   inherits.js
+¦   ¦           ¦   ¦   inherits.js.map
+¦   ¦           ¦   ¦   prependToMemberExpression.js
+¦   ¦           ¦   ¦   prependToMemberExpression.js.map
+¦   ¦           ¦   ¦   removeProperties.js
+¦   ¦           ¦   ¦   removeProperties.js.map
+¦   ¦           ¦   ¦   removePropertiesDeep.js
+¦   ¦           ¦   ¦   removePropertiesDeep.js.map
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   ¦       removeTypeDuplicates.js
+¦   ¦           ¦   ¦       removeTypeDuplicates.js.map
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---typescript
+¦   ¦           ¦           removeTypeDuplicates.js
+¦   ¦           ¦           removeTypeDuplicates.js.map
+¦   ¦           ¦           
+¦   ¦           +---retrievers
+¦   ¦           ¦       getAssignmentIdentifiers.js
+¦   ¦           ¦       getAssignmentIdentifiers.js.map
+¦   ¦           ¦       getBindingIdentifiers.js
+¦   ¦           ¦       getBindingIdentifiers.js.map
+¦   ¦           ¦       getFunctionName.js
+¦   ¦           ¦       getFunctionName.js.map
+¦   ¦           ¦       getOuterBindingIdentifiers.js
+¦   ¦           ¦       getOuterBindingIdentifiers.js.map
+¦   ¦           ¦       
+¦   ¦           +---traverse
+¦   ¦           ¦       traverse.js
+¦   ¦           ¦       traverse.js.map
+¦   ¦           ¦       traverseFast.js
+¦   ¦           ¦       traverseFast.js.map
+¦   ¦           ¦       
+¦   ¦           +---utils
+¦   ¦           ¦   ¦   deprecationWarning.js
+¦   ¦           ¦   ¦   deprecationWarning.js.map
+¦   ¦           ¦   ¦   inherit.js
+¦   ¦           ¦   ¦   inherit.js.map
+¦   ¦           ¦   ¦   shallowEqual.js
+¦   ¦           ¦   ¦   shallowEqual.js.map
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---react
+¦   ¦           ¦           cleanJSXElementLiteralChild.js
+¦   ¦           ¦           cleanJSXElementLiteralChild.js.map
+¦   ¦           ¦           
+¦   ¦           +---validators
+¦   ¦               ¦   buildMatchMemberExpression.js
+¦   ¦               ¦   buildMatchMemberExpression.js.map
+¦   ¦               ¦   is.js
+¦   ¦               ¦   is.js.map
+¦   ¦               ¦   isBinding.js
+¦   ¦               ¦   isBinding.js.map
+¦   ¦               ¦   isBlockScoped.js
+¦   ¦               ¦   isBlockScoped.js.map
+¦   ¦               ¦   isImmutable.js
+¦   ¦               ¦   isImmutable.js.map
+¦   ¦               ¦   isLet.js
+¦   ¦               ¦   isLet.js.map
+¦   ¦               ¦   isNode.js
+¦   ¦               ¦   isNode.js.map
+¦   ¦               ¦   isNodesEquivalent.js
+¦   ¦               ¦   isNodesEquivalent.js.map
+¦   ¦               ¦   isPlaceholderType.js
+¦   ¦               ¦   isPlaceholderType.js.map
+¦   ¦               ¦   isReferenced.js
+¦   ¦               ¦   isReferenced.js.map
+¦   ¦               ¦   isScope.js
+¦   ¦               ¦   isScope.js.map
+¦   ¦               ¦   isSpecifierDefault.js
+¦   ¦               ¦   isSpecifierDefault.js.map
+¦   ¦               ¦   isType.js
+¦   ¦               ¦   isType.js.map
+¦   ¦               ¦   isValidES3Identifier.js
+¦   ¦               ¦   isValidES3Identifier.js.map
+¦   ¦               ¦   isValidIdentifier.js
+¦   ¦               ¦   isValidIdentifier.js.map
+¦   ¦               ¦   isVar.js
+¦   ¦               ¦   isVar.js.map
+¦   ¦               ¦   matchesPattern.js
+¦   ¦               ¦   matchesPattern.js.map
+¦   ¦               ¦   validate.js
+¦   ¦               ¦   validate.js.map
+¦   ¦               ¦   
+¦   ¦               +---generated
+¦   ¦               ¦       index.js
+¦   ¦               ¦       index.js.map
+¦   ¦               ¦       
+¦   ¦               +---react
+¦   ¦                       isCompatTag.js
+¦   ¦                       isCompatTag.js.map
+¦   ¦                       isReactComponent.js
+¦   ¦                       isReactComponent.js.map
+¦   ¦                       
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   ¦           esbuild.exe
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           
+¦   +---@jridgewell
+¦   ¦   +---sourcemap-codec
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦       ¦       sourcemap-codec.mjs
+¦   ¦       ¦       sourcemap-codec.mjs.map
+¦   ¦       ¦       sourcemap-codec.umd.js
+¦   ¦       ¦       sourcemap-codec.umd.js.map
+¦   ¦       ¦       
+¦   ¦       +---src
+¦   ¦       ¦       scopes.ts
+¦   ¦       ¦       sourcemap-codec.ts
+¦   ¦       ¦       strings.ts
+¦   ¦       ¦       vlq.ts
+¦   ¦       ¦       
+¦   ¦       +---types
+¦   ¦               scopes.d.cts
+¦   ¦               scopes.d.cts.map
+¦   ¦               scopes.d.mts
+¦   ¦               scopes.d.mts.map
+¦   ¦               sourcemap-codec.d.cts
+¦   ¦               sourcemap-codec.d.cts.map
+¦   ¦               sourcemap-codec.d.mts
+¦   ¦               sourcemap-codec.d.mts.map
+¦   ¦               strings.d.cts
+¦   ¦               strings.d.cts.map
+¦   ¦               strings.d.mts
+¦   ¦               strings.d.mts.map
+¦   ¦               vlq.d.cts
+¦   ¦               vlq.d.cts.map
+¦   ¦               vlq.d.mts
+¦   ¦               vlq.d.mts.map
+¦   ¦               
+¦   +---@quasar
+¦   ¦   +---extras
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---animate
+¦   ¦   ¦   ¦       animate-list.common.d.ts
+¦   ¦   ¦   ¦       animate-list.common.js
+¦   ¦   ¦   ¦       animate-list.d.ts
+¦   ¦   ¦   ¦       animate-list.js
+¦   ¦   ¦   ¦       animate-list.mjs
+¦   ¦   ¦   ¦       backInDown.css
+¦   ¦   ¦   ¦       backInLeft.css
+¦   ¦   ¦   ¦       backInRight.css
+¦   ¦   ¦   ¦       backInUp.css
+¦   ¦   ¦   ¦       backOutDown.css
+¦   ¦   ¦   ¦       backOutLeft.css
+¦   ¦   ¦   ¦       backOutRight.css
+¦   ¦   ¦   ¦       backOutUp.css
+¦   ¦   ¦   ¦       bounce.css
+¦   ¦   ¦   ¦       bounceIn.css
+¦   ¦   ¦   ¦       bounceInDown.css
+¦   ¦   ¦   ¦       bounceInLeft.css
+¦   ¦   ¦   ¦       bounceInRight.css
+¦   ¦   ¦   ¦       bounceInUp.css
+¦   ¦   ¦   ¦       bounceOut.css
+¦   ¦   ¦   ¦       bounceOutDown.css
+¦   ¦   ¦   ¦       bounceOutLeft.css
+¦   ¦   ¦   ¦       bounceOutRight.css
+¦   ¦   ¦   ¦       bounceOutUp.css
+¦   ¦   ¦   ¦       fadeIn.css
+¦   ¦   ¦   ¦       fadeInBottomLeft.css
+¦   ¦   ¦   ¦       fadeInBottomRight.css
+¦   ¦   ¦   ¦       fadeInDown.css
+¦   ¦   ¦   ¦       fadeInDownBig.css
+¦   ¦   ¦   ¦       fadeInLeft.css
+¦   ¦   ¦   ¦       fadeInLeftBig.css
+¦   ¦   ¦   ¦       fadeInRight.css
+¦   ¦   ¦   ¦       fadeInRightBig.css
+¦   ¦   ¦   ¦       fadeInTopLeft.css
+¦   ¦   ¦   ¦       fadeInTopRight.css
+¦   ¦   ¦   ¦       fadeInUp.css
+¦   ¦   ¦   ¦       fadeInUpBig.css
+¦   ¦   ¦   ¦       fadeOut.css
+¦   ¦   ¦   ¦       fadeOutBottomLeft.css
+¦   ¦   ¦   ¦       fadeOutBottomRight.css
+¦   ¦   ¦   ¦       fadeOutDown.css
+¦   ¦   ¦   ¦       fadeOutDownBig.css
+¦   ¦   ¦   ¦       fadeOutLeft.css
+¦   ¦   ¦   ¦       fadeOutLeftBig.css
+¦   ¦   ¦   ¦       fadeOutRight.css
+¦   ¦   ¦   ¦       fadeOutRightBig.css
+¦   ¦   ¦   ¦       fadeOutTopLeft.css
+¦   ¦   ¦   ¦       fadeOutTopRight.css
+¦   ¦   ¦   ¦       fadeOutUp.css
+¦   ¦   ¦   ¦       fadeOutUpBig.css
+¦   ¦   ¦   ¦       flash.css
+¦   ¦   ¦   ¦       flip.css
+¦   ¦   ¦   ¦       flipInX.css
+¦   ¦   ¦   ¦       flipInY.css
+¦   ¦   ¦   ¦       flipOutX.css
+¦   ¦   ¦   ¦       flipOutY.css
+¦   ¦   ¦   ¦       headShake.css
+¦   ¦   ¦   ¦       heartBeat.css
+¦   ¦   ¦   ¦       hinge.css
+¦   ¦   ¦   ¦       jackInTheBox.css
+¦   ¦   ¦   ¦       jello.css
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       lightSpeedIn.css
+¦   ¦   ¦   ¦       lightSpeedInLeft.css
+¦   ¦   ¦   ¦       lightSpeedInRight.css
+¦   ¦   ¦   ¦       lightSpeedOut.css
+¦   ¦   ¦   ¦       lightSpeedOutLeft.css
+¦   ¦   ¦   ¦       lightSpeedOutRight.css
+¦   ¦   ¦   ¦       pulse.css
+¦   ¦   ¦   ¦       rollIn.css
+¦   ¦   ¦   ¦       rollOut.css
+¦   ¦   ¦   ¦       rotateIn.css
+¦   ¦   ¦   ¦       rotateInDownLeft.css
+¦   ¦   ¦   ¦       rotateInDownRight.css
+¦   ¦   ¦   ¦       rotateInUpLeft.css
+¦   ¦   ¦   ¦       rotateInUpRight.css
+¦   ¦   ¦   ¦       rotateOut.css
+¦   ¦   ¦   ¦       rotateOutDownLeft.css
+¦   ¦   ¦   ¦       rotateOutDownRight.css
+¦   ¦   ¦   ¦       rotateOutUpLeft.css
+¦   ¦   ¦   ¦       rotateOutUpRight.css
+¦   ¦   ¦   ¦       rubberBand.css
+¦   ¦   ¦   ¦       shake.css
+¦   ¦   ¦   ¦       shakeX.css
+¦   ¦   ¦   ¦       shakeY.css
+¦   ¦   ¦   ¦       slideInDown.css
+¦   ¦   ¦   ¦       slideInLeft.css
+¦   ¦   ¦   ¦       slideInRight.css
+¦   ¦   ¦   ¦       slideInUp.css
+¦   ¦   ¦   ¦       slideOutDown.css
+¦   ¦   ¦   ¦       slideOutLeft.css
+¦   ¦   ¦   ¦       slideOutRight.css
+¦   ¦   ¦   ¦       slideOutUp.css
+¦   ¦   ¦   ¦       swing.css
+¦   ¦   ¦   ¦       tada.css
+¦   ¦   ¦   ¦       wobble.css
+¦   ¦   ¦   ¦       zoomIn.css
+¦   ¦   ¦   ¦       zoomInDown.css
+¦   ¦   ¦   ¦       zoomInLeft.css
+¦   ¦   ¦   ¦       zoomInRight.css
+¦   ¦   ¦   ¦       zoomInUp.css
+¦   ¦   ¦   ¦       zoomOut.css
+¦   ¦   ¦   ¦       zoomOutDown.css
+¦   ¦   ¦   ¦       zoomOutLeft.css
+¦   ¦   ¦   ¦       zoomOutRight.css
+¦   ¦   ¦   ¦       zoomOutUp.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---bootstrap-icons
+¦   ¦   ¦   ¦       bootstrap-icons.css
+¦   ¦   ¦   ¦       bootstrap-icons.woff
+¦   ¦   ¦   ¦       bootstrap-icons.woff2
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---eva-icons
+¦   ¦   ¦   ¦       eva-icons.css
+¦   ¦   ¦   ¦       Eva-Icons.woff
+¦   ¦   ¦   ¦       Eva-Icons.woff2
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---fontawesome-v5
+¦   ¦   ¦   ¦       fa-brands-400.woff
+¦   ¦   ¦   ¦       fa-brands-400.woff2
+¦   ¦   ¦   ¦       fa-regular-400.woff
+¦   ¦   ¦   ¦       fa-regular-400.woff2
+¦   ¦   ¦   ¦       fa-solid-900.woff
+¦   ¦   ¦   ¦       fa-solid-900.woff2
+¦   ¦   ¦   ¦       fontawesome-v5.css
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---fontawesome-v6
+¦   ¦   ¦   ¦       fa-brands-400.ttf
+¦   ¦   ¦   ¦       fa-brands-400.woff2
+¦   ¦   ¦   ¦       fa-regular-400.ttf
+¦   ¦   ¦   ¦       fa-regular-400.woff2
+¦   ¦   ¦   ¦       fa-solid-900.ttf
+¦   ¦   ¦   ¦       fa-solid-900.woff2
+¦   ¦   ¦   ¦       fa-v4compatibility.ttf
+¦   ¦   ¦   ¦       fa-v4compatibility.woff2
+¦   ¦   ¦   ¦       fontawesome-v6.css
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ionicons-v4
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       ionicons-v4.css
+¦   ¦   ¦   ¦       ionicons.woff
+¦   ¦   ¦   ¦       ionicons.woff2
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ionicons-v5
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ionicons-v6
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ionicons-v7
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---ionicons-v8
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---line-awesome
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       la-brands-400.woff
+¦   ¦   ¦   ¦       la-brands-400.woff2
+¦   ¦   ¦   ¦       la-regular-400.woff
+¦   ¦   ¦   ¦       la-regular-400.woff2
+¦   ¦   ¦   ¦       la-solid-900.woff
+¦   ¦   ¦   ¦       la-solid-900.woff2
+¦   ¦   ¦   ¦       LICENSE.md
+¦   ¦   ¦   ¦       line-awesome.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---material-icons
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-icons.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
+¦   ¦   ¦   ¦           flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-icons-outlined
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-icons-outlined.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcel5euIg.woff2
+¦   ¦   ¦   ¦           gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcY.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-icons-round
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-icons-round.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmJ.woff
+¦   ¦   ¦   ¦           LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmPq_HTTw.woff2
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-icons-sharp
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-icons-sharp.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvRImcycg.woff2
+¦   ¦   ¦   ¦           oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvX.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-symbols-outlined
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-symbols-outlined.css
+¦   ¦   ¦   ¦   ¦   update.sh
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsLjBuVY.woff2
+¦   ¦   ¦   ¦           kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeel.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-symbols-rounded
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-symbols-rounded.css
+¦   ¦   ¦   ¦   ¦   update.sh
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjzaqkNCeE.woff2
+¦   ¦   ¦   ¦           syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcDTCVpeRL2w5rwZu2rIekXxE.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---material-symbols-sharp
+¦   ¦   ¦   ¦   ¦   icons.json
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   material-symbols-sharp.css
+¦   ¦   ¦   ¦   ¦   update.sh
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWHSSmlN.woff2
+¦   ¦   ¦   ¦           gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H_OdzEL3sVTgJtfbYxOLozCN.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---mdi-v3
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff2
+¦   ¦   ¦   ¦       mdi-v3.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---mdi-v4
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       license.md
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff2
+¦   ¦   ¦   ¦       mdi-v4.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---mdi-v5
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       license.md
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff2
+¦   ¦   ¦   ¦       mdi-v5.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---mdi-v6
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       license.md
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff2
+¦   ¦   ¦   ¦       mdi-v6.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---mdi-v7
+¦   ¦   ¦   ¦       icons.json
+¦   ¦   ¦   ¦       index.d.ts
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       index.mjs
+¦   ¦   ¦   ¦       LICENSE
+¦   ¦   ¦   ¦       license.md
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff
+¦   ¦   ¦   ¦       materialdesignicons-webfont.woff2
+¦   ¦   ¦   ¦       mdi-v7.css
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---roboto-font
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   roboto-font.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiAw.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---roboto-font-latin-ext
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   roboto-font-latin-ext.css
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---web-font
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmaiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmaiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmaiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiAw.woff
+¦   ¦   ¦   ¦           KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmaiAw.woff
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---themify
+¦   ¦   ¦           icons.json
+¦   ¦   ¦           index.d.ts
+¦   ¦   ¦           index.js
+¦   ¦   ¦           index.mjs
+¦   ¦   ¦           LICENSE
+¦   ¦   ¦           themify.css
+¦   ¦   ¦           themify.woff
+¦   ¦   ¦           
+¦   ¦   +---vite-plugin
+¦   ¦       ¦   index.d.ts
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦       ¦       index.cjs
+¦   ¦       ¦       
+¦   ¦       +---src
+¦   ¦               index.js
+¦   ¦               js-transform.js
+¦   ¦               plugin.js
+¦   ¦               quasar-path.js
+¦   ¦               query.js
+¦   ¦               scss-transform.js
+¦   ¦               vite-config.js
+¦   ¦               vue-transform.js
+¦   ¦               
+¦   +---@rollup
+¦   ¦   +---rollup-win32-x64-msvc
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           rollup.win32-x64-msvc.node
+¦   ¦           
+¦   +---@types
+¦   ¦   +---estree
+¦   ¦           flow.d.ts
+¦   ¦           index.d.ts
+¦   ¦           LICENSE
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           
+¦   +---@vitejs
+¦   ¦   +---plugin-vue
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦               index.cjs
+¦   ¦               index.d.cts
+¦   ¦               index.d.mts
+¦   ¦               index.d.ts
+¦   ¦               index.mjs
+¦   ¦               
+¦   +---@vue
+¦   ¦   +---compiler-core
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           compiler-core.cjs.js
+¦   ¦   ¦           compiler-core.cjs.prod.js
+¦   ¦   ¦           compiler-core.d.ts
+¦   ¦   ¦           compiler-core.esm-bundler.js
+¦   ¦   ¦           
+¦   ¦   +---compiler-dom
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           compiler-dom.cjs.js
+¦   ¦   ¦           compiler-dom.cjs.prod.js
+¦   ¦   ¦           compiler-dom.d.ts
+¦   ¦   ¦           compiler-dom.esm-browser.js
+¦   ¦   ¦           compiler-dom.esm-browser.prod.js
+¦   ¦   ¦           compiler-dom.esm-bundler.js
+¦   ¦   ¦           compiler-dom.global.js
+¦   ¦   ¦           compiler-dom.global.prod.js
+¦   ¦   ¦           
+¦   ¦   +---compiler-sfc
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           compiler-sfc.cjs.js
+¦   ¦   ¦           compiler-sfc.d.ts
+¦   ¦   ¦           compiler-sfc.esm-browser.js
+¦   ¦   ¦           
+¦   ¦   +---compiler-ssr
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           compiler-ssr.cjs.js
+¦   ¦   ¦           compiler-ssr.d.ts
+¦   ¦   ¦           
+¦   ¦   +---reactivity
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           reactivity.cjs.js
+¦   ¦   ¦           reactivity.cjs.prod.js
+¦   ¦   ¦           reactivity.d.ts
+¦   ¦   ¦           reactivity.esm-browser.js
+¦   ¦   ¦           reactivity.esm-browser.prod.js
+¦   ¦   ¦           reactivity.esm-bundler.js
+¦   ¦   ¦           reactivity.global.js
+¦   ¦   ¦           reactivity.global.prod.js
+¦   ¦   ¦           
+¦   ¦   +---runtime-core
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           runtime-core.cjs.js
+¦   ¦   ¦           runtime-core.cjs.prod.js
+¦   ¦   ¦           runtime-core.d.ts
+¦   ¦   ¦           runtime-core.esm-bundler.js
+¦   ¦   ¦           
+¦   ¦   +---runtime-dom
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           runtime-dom.cjs.js
+¦   ¦   ¦           runtime-dom.cjs.prod.js
+¦   ¦   ¦           runtime-dom.d.ts
+¦   ¦   ¦           runtime-dom.esm-browser.js
+¦   ¦   ¦           runtime-dom.esm-browser.prod.js
+¦   ¦   ¦           runtime-dom.esm-bundler.js
+¦   ¦   ¦           runtime-dom.global.js
+¦   ¦   ¦           runtime-dom.global.prod.js
+¦   ¦   ¦           
+¦   ¦   +---server-renderer
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦           server-renderer.cjs.js
+¦   ¦   ¦           server-renderer.cjs.prod.js
+¦   ¦   ¦           server-renderer.d.ts
+¦   ¦   ¦           server-renderer.esm-browser.js
+¦   ¦   ¦           server-renderer.esm-browser.prod.js
+¦   ¦   ¦           server-renderer.esm-bundler.js
+¦   ¦   ¦           
+¦   ¦   +---shared
+¦   ¦       ¦   index.js
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦               shared.cjs.js
+¦   ¦               shared.cjs.prod.js
+¦   ¦               shared.d.ts
+¦   ¦               shared.esm-bundler.js
+¦   ¦               
+¦   +---csstype
+¦   ¦       index.d.ts
+¦   ¦       index.js.flow
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---entities
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦       ¦   decode.d.ts
+¦   ¦       ¦   decode.d.ts.map
+¦   ¦       ¦   decode.js
+¦   ¦       ¦   decode.js.map
+¦   ¦       ¦   decode_codepoint.d.ts
+¦   ¦       ¦   decode_codepoint.d.ts.map
+¦   ¦       ¦   decode_codepoint.js
+¦   ¦       ¦   decode_codepoint.js.map
+¦   ¦       ¦   encode.d.ts
+¦   ¦       ¦   encode.d.ts.map
+¦   ¦       ¦   encode.js
+¦   ¦       ¦   encode.js.map
+¦   ¦       ¦   escape.d.ts
+¦   ¦       ¦   escape.d.ts.map
+¦   ¦       ¦   escape.js
+¦   ¦       ¦   escape.js.map
+¦   ¦       ¦   index.d.ts
+¦   ¦       ¦   index.d.ts.map
+¦   ¦       ¦   index.js
+¦   ¦       ¦   index.js.map
+¦   ¦       ¦   
+¦   ¦       +---esm
+¦   ¦       ¦   ¦   decode.d.ts
+¦   ¦       ¦   ¦   decode.d.ts.map
+¦   ¦       ¦   ¦   decode.js
+¦   ¦       ¦   ¦   decode.js.map
+¦   ¦       ¦   ¦   decode_codepoint.d.ts
+¦   ¦       ¦   ¦   decode_codepoint.d.ts.map
+¦   ¦       ¦   ¦   decode_codepoint.js
+¦   ¦       ¦   ¦   decode_codepoint.js.map
+¦   ¦       ¦   ¦   encode.d.ts
+¦   ¦       ¦   ¦   encode.d.ts.map
+¦   ¦       ¦   ¦   encode.js
+¦   ¦       ¦   ¦   encode.js.map
+¦   ¦       ¦   ¦   escape.d.ts
+¦   ¦       ¦   ¦   escape.d.ts.map
+¦   ¦       ¦   ¦   escape.js
+¦   ¦       ¦   ¦   escape.js.map
+¦   ¦       ¦   ¦   index.d.ts
+¦   ¦       ¦   ¦   index.d.ts.map
+¦   ¦       ¦   ¦   index.js
+¦   ¦       ¦   ¦   index.js.map
+¦   ¦       ¦   ¦   package.json
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---generated
+¦   ¦       ¦           decode-data-html.d.ts
+¦   ¦       ¦           decode-data-html.d.ts.map
+¦   ¦       ¦           decode-data-html.js
+¦   ¦       ¦           decode-data-html.js.map
+¦   ¦       ¦           decode-data-xml.d.ts
+¦   ¦       ¦           decode-data-xml.d.ts.map
+¦   ¦       ¦           decode-data-xml.js
+¦   ¦       ¦           decode-data-xml.js.map
+¦   ¦       ¦           encode-html.d.ts
+¦   ¦       ¦           encode-html.d.ts.map
+¦   ¦       ¦           encode-html.js
+¦   ¦       ¦           encode-html.js.map
+¦   ¦       ¦           
+¦   ¦       +---generated
+¦   ¦               decode-data-html.d.ts
+¦   ¦               decode-data-html.d.ts.map
+¦   ¦               decode-data-html.js
+¦   ¦               decode-data-html.js.map
+¦   ¦               decode-data-xml.d.ts
+¦   ¦               decode-data-xml.d.ts.map
+¦   ¦               decode-data-xml.js
+¦   ¦               decode-data-xml.js.map
+¦   ¦               encode-html.d.ts
+¦   ¦               encode-html.d.ts.map
+¦   ¦               encode-html.js
+¦   ¦               encode-html.js.map
+¦   ¦               
+¦   +---esbuild
+¦   ¦   ¦   install.js
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       esbuild
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦           main.d.ts
+¦   ¦           main.js
+¦   ¦           
+¦   +---estree-walker
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦       estree-walker.js
+¦   ¦   ¦   ¦       package.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---umd
+¦   ¦   ¦           estree-walker.js
+¦   ¦   ¦           
+¦   ¦   +---src
+¦   ¦   ¦       async.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       package.json
+¦   ¦   ¦       sync.js
+¦   ¦   ¦       walker.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           async.d.ts
+¦   ¦           index.d.ts
+¦   ¦           sync.d.ts
+¦   ¦           tsconfig.tsbuildinfo
+¦   ¦           walker.d.ts
+¦   ¦           
+¦   +---fdir
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦       ¦   index.cjs
+¦   ¦       ¦   index.d.cts
+¦   ¦       ¦   index.d.mts
+¦   ¦       ¦   index.d.ts
+¦   ¦       ¦   index.js
+¦   ¦       ¦   index.mjs
+¦   ¦       ¦   types.d.ts
+¦   ¦       ¦   types.js
+¦   ¦       ¦   utils.d.ts
+¦   ¦       ¦   utils.js
+¦   ¦       ¦   
+¦   ¦       +---api
+¦   ¦       ¦   ¦   async.d.ts
+¦   ¦       ¦   ¦   async.js
+¦   ¦       ¦   ¦   counter.d.ts
+¦   ¦       ¦   ¦   counter.js
+¦   ¦       ¦   ¦   queue.d.ts
+¦   ¦       ¦   ¦   queue.js
+¦   ¦       ¦   ¦   sync.d.ts
+¦   ¦       ¦   ¦   sync.js
+¦   ¦       ¦   ¦   walker.d.ts
+¦   ¦       ¦   ¦   walker.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---functions
+¦   ¦       ¦           get-array.d.ts
+¦   ¦       ¦           get-array.js
+¦   ¦       ¦           group-files.d.ts
+¦   ¦       ¦           group-files.js
+¦   ¦       ¦           invoke-callback.d.ts
+¦   ¦       ¦           invoke-callback.js
+¦   ¦       ¦           join-path.d.ts
+¦   ¦       ¦           join-path.js
+¦   ¦       ¦           push-directory.d.ts
+¦   ¦       ¦           push-directory.js
+¦   ¦       ¦           push-file.d.ts
+¦   ¦       ¦           push-file.js
+¦   ¦       ¦           resolve-symlink.d.ts
+¦   ¦       ¦           resolve-symlink.js
+¦   ¦       ¦           walk-directory.d.ts
+¦   ¦       ¦           walk-directory.js
+¦   ¦       ¦           
+¦   ¦       +---builder
+¦   ¦               api-builder.d.ts
+¦   ¦               api-builder.js
+¦   ¦               index.d.ts
+¦   ¦               index.js
+¦   ¦               
+¦   +---magic-string
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           magic-string.cjs.d.ts
+¦   ¦           magic-string.cjs.js
+¦   ¦           magic-string.cjs.js.map
+¦   ¦           magic-string.es.d.mts
+¦   ¦           magic-string.es.mjs
+¦   ¦           magic-string.es.mjs.map
+¦   ¦           magic-string.umd.js
+¦   ¦           magic-string.umd.js.map
+¦   ¦           
+¦   +---nanoid
+¦   ¦   ¦   index.browser.cjs
+¦   ¦   ¦   index.browser.js
+¦   ¦   ¦   index.cjs
+¦   ¦   ¦   index.d.cts
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   nanoid.js
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---async
+¦   ¦   ¦       index.browser.cjs
+¦   ¦   ¦       index.browser.js
+¦   ¦   ¦       index.cjs
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       index.js
+¦   ¦   ¦       index.native.js
+¦   ¦   ¦       package.json
+¦   ¦   ¦       
+¦   ¦   +---bin
+¦   ¦   ¦       nanoid.cjs
+¦   ¦   ¦       
+¦   ¦   +---non-secure
+¦   ¦   ¦       index.cjs
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       index.js
+¦   ¦   ¦       package.json
+¦   ¦   ¦       
+¦   ¦   +---url-alphabet
+¦   ¦           index.cjs
+¦   ¦           index.js
+¦   ¦           package.json
+¦   ¦           
+¦   +---picocolors
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       picocolors.browser.js
+¦   ¦       picocolors.d.ts
+¦   ¦       picocolors.js
+¦   ¦       README.md
+¦   ¦       types.d.ts
+¦   ¦       
+¦   +---picomatch
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   posix.js
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           constants.js
+¦   ¦           parse.js
+¦   ¦           picomatch.js
+¦   ¦           scan.js
+¦   ¦           utils.js
+¦   ¦           
+¦   +---postcss
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           at-rule.d.ts
+¦   ¦           at-rule.js
+¦   ¦           comment.d.ts
+¦   ¦           comment.js
+¦   ¦           container.d.ts
+¦   ¦           container.js
+¦   ¦           css-syntax-error.d.ts
+¦   ¦           css-syntax-error.js
+¦   ¦           declaration.d.ts
+¦   ¦           declaration.js
+¦   ¦           document.d.ts
+¦   ¦           document.js
+¦   ¦           fromJSON.d.ts
+¦   ¦           fromJSON.js
+¦   ¦           input.d.ts
+¦   ¦           input.js
+¦   ¦           lazy-result.d.ts
+¦   ¦           lazy-result.js
+¦   ¦           list.d.ts
+¦   ¦           list.js
+¦   ¦           map-generator.js
+¦   ¦           no-work-result.d.ts
+¦   ¦           no-work-result.js
+¦   ¦           node.d.ts
+¦   ¦           node.js
+¦   ¦           parse.d.ts
+¦   ¦           parse.js
+¦   ¦           parser.js
+¦   ¦           postcss.d.mts
+¦   ¦           postcss.d.ts
+¦   ¦           postcss.js
+¦   ¦           postcss.mjs
+¦   ¦           previous-map.d.ts
+¦   ¦           previous-map.js
+¦   ¦           processor.d.ts
+¦   ¦           processor.js
+¦   ¦           result.d.ts
+¦   ¦           result.js
+¦   ¦           root.d.ts
+¦   ¦           root.js
+¦   ¦           rule.d.ts
+¦   ¦           rule.js
+¦   ¦           stringifier.d.ts
+¦   ¦           stringifier.js
+¦   ¦           stringify.d.ts
+¦   ¦           stringify.js
+¦   ¦           symbols.js
+¦   ¦           terminal-highlight.js
+¦   ¦           tokenize.js
+¦   ¦           warn-once.js
+¦   ¦           warning.d.ts
+¦   ¦           warning.js
+¦   ¦           
+¦   +---quasar
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦   ¦   quasar.addon.css
+¦   ¦   ¦   ¦   quasar.addon.prod.css
+¦   ¦   ¦   ¦   quasar.addon.rtl.css
+¦   ¦   ¦   ¦   quasar.addon.rtl.prod.css
+¦   ¦   ¦   ¦   quasar.client.js
+¦   ¦   ¦   ¦   quasar.css
+¦   ¦   ¦   ¦   quasar.prod.css
+¦   ¦   ¦   ¦   quasar.rtl.css
+¦   ¦   ¦   ¦   quasar.rtl.prod.css
+¦   ¦   ¦   ¦   quasar.sass
+¦   ¦   ¦   ¦   quasar.server.prod.cjs
+¦   ¦   ¦   ¦   quasar.server.prod.js
+¦   ¦   ¦   ¦   quasar.umd.js
+¦   ¦   ¦   ¦   quasar.umd.prod.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---api
+¦   ¦   ¦   ¦       AddressbarColor.json
+¦   ¦   ¦   ¦       AppFullscreen.json
+¦   ¦   ¦   ¦       AppVisibility.json
+¦   ¦   ¦   ¦       BottomSheet.json
+¦   ¦   ¦   ¦       Brand.json
+¦   ¦   ¦   ¦       ClosePopup.json
+¦   ¦   ¦   ¦       Cookies.json
+¦   ¦   ¦   ¦       Dark.json
+¦   ¦   ¦   ¦       Dialog.json
+¦   ¦   ¦   ¦       IconSet.json
+¦   ¦   ¦   ¦       Intersection.json
+¦   ¦   ¦   ¦       Lang.json
+¦   ¦   ¦   ¦       Loading.json
+¦   ¦   ¦   ¦       LoadingBar.json
+¦   ¦   ¦   ¦       LocalStorage.json
+¦   ¦   ¦   ¦       Meta.json
+¦   ¦   ¦   ¦       Morph.json
+¦   ¦   ¦   ¦       Mutation.json
+¦   ¦   ¦   ¦       Notify.json
+¦   ¦   ¦   ¦       Platform.json
+¦   ¦   ¦   ¦       QAjaxBar.json
+¦   ¦   ¦   ¦       QAvatar.json
+¦   ¦   ¦   ¦       QBadge.json
+¦   ¦   ¦   ¦       QBanner.json
+¦   ¦   ¦   ¦       QBar.json
+¦   ¦   ¦   ¦       QBreadcrumbs.json
+¦   ¦   ¦   ¦       QBreadcrumbsEl.json
+¦   ¦   ¦   ¦       QBtn.json
+¦   ¦   ¦   ¦       QBtnDropdown.json
+¦   ¦   ¦   ¦       QBtnGroup.json
+¦   ¦   ¦   ¦       QBtnToggle.json
+¦   ¦   ¦   ¦       QCard.json
+¦   ¦   ¦   ¦       QCardActions.json
+¦   ¦   ¦   ¦       QCardSection.json
+¦   ¦   ¦   ¦       QCarousel.json
+¦   ¦   ¦   ¦       QCarouselControl.json
+¦   ¦   ¦   ¦       QCarouselSlide.json
+¦   ¦   ¦   ¦       QChatMessage.json
+¦   ¦   ¦   ¦       QCheckbox.json
+¦   ¦   ¦   ¦       QChip.json
+¦   ¦   ¦   ¦       QCircularProgress.json
+¦   ¦   ¦   ¦       QColor.json
+¦   ¦   ¦   ¦       QDate.json
+¦   ¦   ¦   ¦       QDialog.json
+¦   ¦   ¦   ¦       QDrawer.json
+¦   ¦   ¦   ¦       QEditor.json
+¦   ¦   ¦   ¦       QExpansionItem.json
+¦   ¦   ¦   ¦       QFab.json
+¦   ¦   ¦   ¦       QFabAction.json
+¦   ¦   ¦   ¦       QField.json
+¦   ¦   ¦   ¦       QFile.json
+¦   ¦   ¦   ¦       QFooter.json
+¦   ¦   ¦   ¦       QForm.json
+¦   ¦   ¦   ¦       QFormChildMixin.json
+¦   ¦   ¦   ¦       QHeader.json
+¦   ¦   ¦   ¦       QIcon.json
+¦   ¦   ¦   ¦       QImg.json
+¦   ¦   ¦   ¦       QInfiniteScroll.json
+¦   ¦   ¦   ¦       QInnerLoading.json
+¦   ¦   ¦   ¦       QInput.json
+¦   ¦   ¦   ¦       QIntersection.json
+¦   ¦   ¦   ¦       QItem.json
+¦   ¦   ¦   ¦       QItemLabel.json
+¦   ¦   ¦   ¦       QItemSection.json
+¦   ¦   ¦   ¦       QKnob.json
+¦   ¦   ¦   ¦       QLayout.json
+¦   ¦   ¦   ¦       QLinearProgress.json
+¦   ¦   ¦   ¦       QList.json
+¦   ¦   ¦   ¦       QMarkupTable.json
+¦   ¦   ¦   ¦       QMenu.json
+¦   ¦   ¦   ¦       QNoSsr.json
+¦   ¦   ¦   ¦       QOptionGroup.json
+¦   ¦   ¦   ¦       QPage.json
+¦   ¦   ¦   ¦       QPageContainer.json
+¦   ¦   ¦   ¦       QPageScroller.json
+¦   ¦   ¦   ¦       QPageSticky.json
+¦   ¦   ¦   ¦       QPagination.json
+¦   ¦   ¦   ¦       QParallax.json
+¦   ¦   ¦   ¦       QPopupEdit.json
+¦   ¦   ¦   ¦       QPopupProxy.json
+¦   ¦   ¦   ¦       QPullToRefresh.json
+¦   ¦   ¦   ¦       QRadio.json
+¦   ¦   ¦   ¦       QRange.json
+¦   ¦   ¦   ¦       QRating.json
+¦   ¦   ¦   ¦       QResizeObserver.json
+¦   ¦   ¦   ¦       QResponsive.json
+¦   ¦   ¦   ¦       QRouteTab.json
+¦   ¦   ¦   ¦       QScrollArea.json
+¦   ¦   ¦   ¦       QScrollObserver.json
+¦   ¦   ¦   ¦       QSelect.json
+¦   ¦   ¦   ¦       QSeparator.json
+¦   ¦   ¦   ¦       QSkeleton.json
+¦   ¦   ¦   ¦       QSlideItem.json
+¦   ¦   ¦   ¦       QSlider.json
+¦   ¦   ¦   ¦       QSlideTransition.json
+¦   ¦   ¦   ¦       QSpace.json
+¦   ¦   ¦   ¦       QSpinner.json
+¦   ¦   ¦   ¦       QSpinnerAudio.json
+¦   ¦   ¦   ¦       QSpinnerBall.json
+¦   ¦   ¦   ¦       QSpinnerBars.json
+¦   ¦   ¦   ¦       QSpinnerBox.json
+¦   ¦   ¦   ¦       QSpinnerClock.json
+¦   ¦   ¦   ¦       QSpinnerComment.json
+¦   ¦   ¦   ¦       QSpinnerCube.json
+¦   ¦   ¦   ¦       QSpinnerDots.json
+¦   ¦   ¦   ¦       QSpinnerFacebook.json
+¦   ¦   ¦   ¦       QSpinnerGears.json
+¦   ¦   ¦   ¦       QSpinnerGrid.json
+¦   ¦   ¦   ¦       QSpinnerHearts.json
+¦   ¦   ¦   ¦       QSpinnerHourglass.json
+¦   ¦   ¦   ¦       QSpinnerInfinity.json
+¦   ¦   ¦   ¦       QSpinnerIos.json
+¦   ¦   ¦   ¦       QSpinnerOrbit.json
+¦   ¦   ¦   ¦       QSpinnerOval.json
+¦   ¦   ¦   ¦       QSpinnerPie.json
+¦   ¦   ¦   ¦       QSpinnerPuff.json
+¦   ¦   ¦   ¦       QSpinnerRadio.json
+¦   ¦   ¦   ¦       QSpinnerRings.json
+¦   ¦   ¦   ¦       QSpinnerTail.json
+¦   ¦   ¦   ¦       QSplitter.json
+¦   ¦   ¦   ¦       QStep.json
+¦   ¦   ¦   ¦       QStepper.json
+¦   ¦   ¦   ¦       QStepperNavigation.json
+¦   ¦   ¦   ¦       QTab.json
+¦   ¦   ¦   ¦       QTable.json
+¦   ¦   ¦   ¦       QTabPanel.json
+¦   ¦   ¦   ¦       QTabPanels.json
+¦   ¦   ¦   ¦       QTabs.json
+¦   ¦   ¦   ¦       QTd.json
+¦   ¦   ¦   ¦       QTh.json
+¦   ¦   ¦   ¦       QTime.json
+¦   ¦   ¦   ¦       QTimeline.json
+¦   ¦   ¦   ¦       QTimelineEntry.json
+¦   ¦   ¦   ¦       QToggle.json
+¦   ¦   ¦   ¦       QToolbar.json
+¦   ¦   ¦   ¦       QToolbarTitle.json
+¦   ¦   ¦   ¦       QTooltip.json
+¦   ¦   ¦   ¦       QTr.json
+¦   ¦   ¦   ¦       QTree.json
+¦   ¦   ¦   ¦       QUploader.json
+¦   ¦   ¦   ¦       QUploaderAddTrigger.json
+¦   ¦   ¦   ¦       QVideo.json
+¦   ¦   ¦   ¦       QVirtualScroll.json
+¦   ¦   ¦   ¦       Ripple.json
+¦   ¦   ¦   ¦       Screen.json
+¦   ¦   ¦   ¦       Scroll.json
+¦   ¦   ¦   ¦       ScrollFire.json
+¦   ¦   ¦   ¦       SessionStorage.json
+¦   ¦   ¦   ¦       TouchHold.json
+¦   ¦   ¦   ¦       TouchPan.json
+¦   ¦   ¦   ¦       TouchRepeat.json
+¦   ¦   ¦   ¦       TouchSwipe.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---icon-set
+¦   ¦   ¦   ¦       bootstrap-icons.umd.prod.js
+¦   ¦   ¦   ¦       eva-icons.umd.prod.js
+¦   ¦   ¦   ¦       fontawesome-v5-pro.umd.prod.js
+¦   ¦   ¦   ¦       fontawesome-v5.umd.prod.js
+¦   ¦   ¦   ¦       fontawesome-v6-pro.umd.prod.js
+¦   ¦   ¦   ¦       fontawesome-v6.umd.prod.js
+¦   ¦   ¦   ¦       ionicons-v4.umd.prod.js
+¦   ¦   ¦   ¦       line-awesome.umd.prod.js
+¦   ¦   ¦   ¦       material-icons-outlined.umd.prod.js
+¦   ¦   ¦   ¦       material-icons-round.umd.prod.js
+¦   ¦   ¦   ¦       material-icons-sharp.umd.prod.js
+¦   ¦   ¦   ¦       material-icons.umd.prod.js
+¦   ¦   ¦   ¦       material-symbols-outlined.umd.prod.js
+¦   ¦   ¦   ¦       material-symbols-rounded.umd.prod.js
+¦   ¦   ¦   ¦       material-symbols-sharp.umd.prod.js
+¦   ¦   ¦   ¦       mdi-v3.umd.prod.js
+¦   ¦   ¦   ¦       mdi-v4.umd.prod.js
+¦   ¦   ¦   ¦       mdi-v5.umd.prod.js
+¦   ¦   ¦   ¦       mdi-v6.umd.prod.js
+¦   ¦   ¦   ¦       mdi-v7.umd.prod.js
+¦   ¦   ¦   ¦       svg-bootstrap-icons.umd.prod.js
+¦   ¦   ¦   ¦       svg-eva-icons.umd.prod.js
+¦   ¦   ¦   ¦       svg-fontawesome-v5.umd.prod.js
+¦   ¦   ¦   ¦       svg-fontawesome-v6.umd.prod.js
+¦   ¦   ¦   ¦       svg-ionicons-v4.umd.prod.js
+¦   ¦   ¦   ¦       svg-ionicons-v5.umd.prod.js
+¦   ¦   ¦   ¦       svg-ionicons-v6.umd.prod.js
+¦   ¦   ¦   ¦       svg-line-awesome.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-icons-outlined.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-icons-round.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-icons-sharp.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-icons.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-symbols-outlined.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-symbols-rounded.umd.prod.js
+¦   ¦   ¦   ¦       svg-material-symbols-sharp.umd.prod.js
+¦   ¦   ¦   ¦       svg-mdi-v6.umd.prod.js
+¦   ¦   ¦   ¦       svg-mdi-v7.umd.prod.js
+¦   ¦   ¦   ¦       svg-themify.umd.prod.js
+¦   ¦   ¦   ¦       themify.umd.prod.js
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---lang
+¦   ¦   ¦   ¦       ar-TN.umd.prod.js
+¦   ¦   ¦   ¦       ar.umd.prod.js
+¦   ¦   ¦   ¦       az-Latn.umd.prod.js
+¦   ¦   ¦   ¦       bg.umd.prod.js
+¦   ¦   ¦   ¦       bn.umd.prod.js
+¦   ¦   ¦   ¦       bs-BA.umd.prod.js
+¦   ¦   ¦   ¦       ca.umd.prod.js
+¦   ¦   ¦   ¦       cs.umd.prod.js
+¦   ¦   ¦   ¦       da.umd.prod.js
+¦   ¦   ¦   ¦       de-CH.umd.prod.js
+¦   ¦   ¦   ¦       de-DE.umd.prod.js
+¦   ¦   ¦   ¦       de.umd.prod.js
+¦   ¦   ¦   ¦       el.umd.prod.js
+¦   ¦   ¦   ¦       en-GB.umd.prod.js
+¦   ¦   ¦   ¦       en-US.umd.prod.js
+¦   ¦   ¦   ¦       eo.umd.prod.js
+¦   ¦   ¦   ¦       es.umd.prod.js
+¦   ¦   ¦   ¦       et.umd.prod.js
+¦   ¦   ¦   ¦       eu.umd.prod.js
+¦   ¦   ¦   ¦       fa-IR.umd.prod.js
+¦   ¦   ¦   ¦       fa.umd.prod.js
+¦   ¦   ¦   ¦       fi.umd.prod.js
+¦   ¦   ¦   ¦       fr.umd.prod.js
+¦   ¦   ¦   ¦       gn.umd.prod.js
+¦   ¦   ¦   ¦       he.umd.prod.js
+¦   ¦   ¦   ¦       hi.umd.prod.js
+¦   ¦   ¦   ¦       hr.umd.prod.js
+¦   ¦   ¦   ¦       hu.umd.prod.js
+¦   ¦   ¦   ¦       id.umd.prod.js
+¦   ¦   ¦   ¦       is.umd.prod.js
+¦   ¦   ¦   ¦       it.umd.prod.js
+¦   ¦   ¦   ¦       ja.umd.prod.js
+¦   ¦   ¦   ¦       kk.umd.prod.js
+¦   ¦   ¦   ¦       km.umd.prod.js
+¦   ¦   ¦   ¦       ko-KR.umd.prod.js
+¦   ¦   ¦   ¦       kur-CKB.umd.prod.js
+¦   ¦   ¦   ¦       lt.umd.prod.js
+¦   ¦   ¦   ¦       lu.umd.prod.js
+¦   ¦   ¦   ¦       lv.umd.prod.js
+¦   ¦   ¦   ¦       mk.umd.prod.js
+¦   ¦   ¦   ¦       ml.umd.prod.js
+¦   ¦   ¦   ¦       mm.umd.prod.js
+¦   ¦   ¦   ¦       ms-MY.umd.prod.js
+¦   ¦   ¦   ¦       ms.umd.prod.js
+¦   ¦   ¦   ¦       my.umd.prod.js
+¦   ¦   ¦   ¦       nb-NO.umd.prod.js
+¦   ¦   ¦   ¦       nl.umd.prod.js
+¦   ¦   ¦   ¦       pl.umd.prod.js
+¦   ¦   ¦   ¦       pt-BR.umd.prod.js
+¦   ¦   ¦   ¦       pt.umd.prod.js
+¦   ¦   ¦   ¦       ro.umd.prod.js
+¦   ¦   ¦   ¦       ru.umd.prod.js
+¦   ¦   ¦   ¦       sk.umd.prod.js
+¦   ¦   ¦   ¦       sl.umd.prod.js
+¦   ¦   ¦   ¦       sm.umd.prod.js
+¦   ¦   ¦   ¦       sq.umd.prod.js
+¦   ¦   ¦   ¦       sr-CYR.umd.prod.js
+¦   ¦   ¦   ¦       sr.umd.prod.js
+¦   ¦   ¦   ¦       sv.umd.prod.js
+¦   ¦   ¦   ¦       ta.umd.prod.js
+¦   ¦   ¦   ¦       th.umd.prod.js
+¦   ¦   ¦   ¦       tl.umd.prod.js
+¦   ¦   ¦   ¦       tr.umd.prod.js
+¦   ¦   ¦   ¦       ug.umd.prod.js
+¦   ¦   ¦   ¦       uk.umd.prod.js
+¦   ¦   ¦   ¦       ur-PK.umd.prod.js
+¦   ¦   ¦   ¦       uz-Cyrl.umd.prod.js
+¦   ¦   ¦   ¦       uz-Latn.umd.prod.js
+¦   ¦   ¦   ¦       vi.umd.prod.js
+¦   ¦   ¦   ¦       zh-CN.umd.prod.js
+¦   ¦   ¦   ¦       zh-TW.umd.prod.js
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---transforms
+¦   ¦   ¦   ¦       api-list.json
+¦   ¦   ¦   ¦       auto-import.json
+¦   ¦   ¦   ¦       import-map.json
+¦   ¦   ¦   ¦       loader-asset-urls.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   ¦   api.d.ts
+¦   ¦   ¦   ¦   ¦   composables.d.ts
+¦   ¦   ¦   ¦   ¦   config.d.ts
+¦   ¦   ¦   ¦   ¦   extras.d.ts
+¦   ¦   ¦   ¦   ¦   feature-flag.d.ts
+¦   ¦   ¦   ¦   ¦   globals.d.ts
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   lang.d.ts
+¦   ¦   ¦   ¦   ¦   meta.d.ts
+¦   ¦   ¦   ¦   ¦   plugin.d.ts
+¦   ¦   ¦   ¦   ¦   shim-icon-set.d.ts
+¦   ¦   ¦   ¦   ¦   shim-lang.d.ts
+¦   ¦   ¦   ¦   ¦   ts-helpers.d.ts
+¦   ¦   ¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   ¦   ¦   utils.d.ts
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---api
+¦   ¦   ¦   ¦   ¦       color.d.ts
+¦   ¦   ¦   ¦   ¦       cookies.d.ts
+¦   ¦   ¦   ¦   ¦       dialog.d.ts
+¦   ¦   ¦   ¦   ¦       qeditor.d.ts
+¦   ¦   ¦   ¦   ¦       qfile.d.ts
+¦   ¦   ¦   ¦   ¦       qform.d.ts
+¦   ¦   ¦   ¦   ¦       qinput.d.ts
+¦   ¦   ¦   ¦   ¦       qloading.d.ts
+¦   ¦   ¦   ¦   ¦       qloadingbar.d.ts
+¦   ¦   ¦   ¦   ¦       qnotify.d.ts
+¦   ¦   ¦   ¦   ¦       qpopupproxy.d.ts
+¦   ¦   ¦   ¦   ¦       qselect.d.ts
+¦   ¦   ¦   ¦   ¦       qtable.d.ts
+¦   ¦   ¦   ¦   ¦       qtree.d.ts
+¦   ¦   ¦   ¦   ¦       quploader.d.ts
+¦   ¦   ¦   ¦   ¦       slider.d.ts
+¦   ¦   ¦   ¦   ¦       touchswipe.d.ts
+¦   ¦   ¦   ¦   ¦       validation.d.ts
+¦   ¦   ¦   ¦   ¦       vue-prop-types.d.ts
+¦   ¦   ¦   ¦   ¦       web-storage.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---extras
+¦   ¦   ¦   ¦   ¦       animations.d.ts
+¦   ¦   ¦   ¦   ¦       fonts.d.ts
+¦   ¦   ¦   ¦   ¦       icon-set.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           colors.d.ts
+¦   ¦   ¦   ¦           date.d.ts
+¦   ¦   ¦   ¦           dom.d.ts
+¦   ¦   ¦   ¦           event.d.ts
+¦   ¦   ¦   ¦           format.d.ts
+¦   ¦   ¦   ¦           is.d.ts
+¦   ¦   ¦   ¦           patterns.d.ts
+¦   ¦   ¦   ¦           run-sequential-promises.d.ts
+¦   ¦   ¦   ¦           scroll.d.ts
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---vetur
+¦   ¦   ¦   ¦       quasar-attributes.json
+¦   ¦   ¦   ¦       quasar-tags.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---web-types
+¦   ¦   ¦           web-types.json
+¦   ¦   ¦           
+¦   ¦   +---icon-set
+¦   ¦   ¦       bootstrap-icons.js
+¦   ¦   ¦       eva-icons.js
+¦   ¦   ¦       fontawesome-v5-pro.js
+¦   ¦   ¦       fontawesome-v5.js
+¦   ¦   ¦       fontawesome-v6-pro.js
+¦   ¦   ¦       fontawesome-v6.js
+¦   ¦   ¦       ionicons-v4.js
+¦   ¦   ¦       line-awesome.js
+¦   ¦   ¦       material-icons-outlined.js
+¦   ¦   ¦       material-icons-round.js
+¦   ¦   ¦       material-icons-sharp.js
+¦   ¦   ¦       material-icons.js
+¦   ¦   ¦       material-symbols-outlined.js
+¦   ¦   ¦       material-symbols-rounded.js
+¦   ¦   ¦       material-symbols-sharp.js
+¦   ¦   ¦       mdi-v3.js
+¦   ¦   ¦       mdi-v4.js
+¦   ¦   ¦       mdi-v5.js
+¦   ¦   ¦       mdi-v6.js
+¦   ¦   ¦       mdi-v7.js
+¦   ¦   ¦       svg-bootstrap-icons.js
+¦   ¦   ¦       svg-eva-icons.js
+¦   ¦   ¦       svg-fontawesome-v5.js
+¦   ¦   ¦       svg-fontawesome-v6.js
+¦   ¦   ¦       svg-ionicons-v4.js
+¦   ¦   ¦       svg-ionicons-v5.js
+¦   ¦   ¦       svg-ionicons-v6.js
+¦   ¦   ¦       svg-line-awesome.js
+¦   ¦   ¦       svg-material-icons-outlined.js
+¦   ¦   ¦       svg-material-icons-round.js
+¦   ¦   ¦       svg-material-icons-sharp.js
+¦   ¦   ¦       svg-material-icons.js
+¦   ¦   ¦       svg-material-symbols-outlined.js
+¦   ¦   ¦       svg-material-symbols-rounded.js
+¦   ¦   ¦       svg-material-symbols-sharp.js
+¦   ¦   ¦       svg-mdi-v6.js
+¦   ¦   ¦       svg-mdi-v7.js
+¦   ¦   ¦       svg-themify.js
+¦   ¦   ¦       themify.js
+¦   ¦   ¦       
+¦   ¦   +---lang
+¦   ¦   ¦       ar-TN.js
+¦   ¦   ¦       ar.js
+¦   ¦   ¦       az-Latn.js
+¦   ¦   ¦       bg.js
+¦   ¦   ¦       bn.js
+¦   ¦   ¦       bs-BA.js
+¦   ¦   ¦       ca.js
+¦   ¦   ¦       cs.js
+¦   ¦   ¦       da.js
+¦   ¦   ¦       de-CH.js
+¦   ¦   ¦       de-DE.js
+¦   ¦   ¦       de.js
+¦   ¦   ¦       el.js
+¦   ¦   ¦       en-GB.js
+¦   ¦   ¦       en-US.js
+¦   ¦   ¦       eo.js
+¦   ¦   ¦       es.js
+¦   ¦   ¦       et.js
+¦   ¦   ¦       eu.js
+¦   ¦   ¦       fa-IR.js
+¦   ¦   ¦       fa.js
+¦   ¦   ¦       fi.js
+¦   ¦   ¦       fr.js
+¦   ¦   ¦       gn.js
+¦   ¦   ¦       he.js
+¦   ¦   ¦       hi.js
+¦   ¦   ¦       hr.js
+¦   ¦   ¦       hu.js
+¦   ¦   ¦       id.js
+¦   ¦   ¦       index.json
+¦   ¦   ¦       is.js
+¦   ¦   ¦       it.js
+¦   ¦   ¦       ja.js
+¦   ¦   ¦       kk.js
+¦   ¦   ¦       km.js
+¦   ¦   ¦       ko-KR.js
+¦   ¦   ¦       kur-CKB.js
+¦   ¦   ¦       lt.js
+¦   ¦   ¦       lu.js
+¦   ¦   ¦       lv.js
+¦   ¦   ¦       mk.js
+¦   ¦   ¦       ml.js
+¦   ¦   ¦       mm.js
+¦   ¦   ¦       ms-MY.js
+¦   ¦   ¦       ms.js
+¦   ¦   ¦       my.js
+¦   ¦   ¦       nb-NO.js
+¦   ¦   ¦       nl.js
+¦   ¦   ¦       pl.js
+¦   ¦   ¦       pt-BR.js
+¦   ¦   ¦       pt.js
+¦   ¦   ¦       ro.js
+¦   ¦   ¦       ru.js
+¦   ¦   ¦       sk.js
+¦   ¦   ¦       sl.js
+¦   ¦   ¦       sm.js
+¦   ¦   ¦       sq.js
+¦   ¦   ¦       sr-CYR.js
+¦   ¦   ¦       sr.js
+¦   ¦   ¦       sv.js
+¦   ¦   ¦       ta.js
+¦   ¦   ¦       th.js
+¦   ¦   ¦       tl.js
+¦   ¦   ¦       tr.js
+¦   ¦   ¦       ug.js
+¦   ¦   ¦       uk.js
+¦   ¦   ¦       ur-PK.js
+¦   ¦   ¦       uz-Cyrl.js
+¦   ¦   ¦       uz-Latn.js
+¦   ¦   ¦       vi.js
+¦   ¦   ¦       zh-CN.js
+¦   ¦   ¦       zh-TW.js
+¦   ¦   ¦       
+¦   ¦   +---src
+¦   ¦   ¦   ¦   api.extends.json
+¦   ¦   ¦   ¦   Brand.json
+¦   ¦   ¦   ¦   components.js
+¦   ¦   ¦   ¦   composables.js
+¦   ¦   ¦   ¦   directives.js
+¦   ¦   ¦   ¦   flags.dev.js
+¦   ¦   ¦   ¦   index.dev.js
+¦   ¦   ¦   ¦   index.ssr.js
+¦   ¦   ¦   ¦   index.umd.js
+¦   ¦   ¦   ¦   install-quasar.js
+¦   ¦   ¦   ¦   plugins.js
+¦   ¦   ¦   ¦   utils.js
+¦   ¦   ¦   ¦   vue-plugin.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---components
+¦   ¦   ¦   ¦   +---ajax-bar
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QAjaxBar.js
+¦   ¦   ¦   ¦   ¦       QAjaxBar.json
+¦   ¦   ¦   ¦   ¦       QAjaxBar.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---avatar
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QAvatar.js
+¦   ¦   ¦   ¦   ¦       QAvatar.json
+¦   ¦   ¦   ¦   ¦       QAvatar.sass
+¦   ¦   ¦   ¦   ¦       QAvatar.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---badge
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBadge.js
+¦   ¦   ¦   ¦   ¦       QBadge.json
+¦   ¦   ¦   ¦   ¦       QBadge.sass
+¦   ¦   ¦   ¦   ¦       QBadge.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---banner
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBanner.js
+¦   ¦   ¦   ¦   ¦       QBanner.json
+¦   ¦   ¦   ¦   ¦       QBanner.sass
+¦   ¦   ¦   ¦   ¦       QBanner.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---bar
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBar.js
+¦   ¦   ¦   ¦   ¦       QBar.json
+¦   ¦   ¦   ¦   ¦       QBar.sass
+¦   ¦   ¦   ¦   ¦       QBar.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---breadcrumbs
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbs.js
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbs.json
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbs.sass
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbs.test.js
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbsEl.js
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbsEl.json
+¦   ¦   ¦   ¦   ¦   ¦   QBreadcrumbsEl.test.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---test
+¦   ¦   ¦   ¦   ¦           BasicBreadcrumbs.vue
+¦   ¦   ¦   ¦   ¦           BreadcrumbWithSeparatorSlot.vue
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---btn
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBtn.js
+¦   ¦   ¦   ¦   ¦       QBtn.json
+¦   ¦   ¦   ¦   ¦       QBtn.sass
+¦   ¦   ¦   ¦   ¦       QBtn.test.js
+¦   ¦   ¦   ¦   ¦       use-btn.js
+¦   ¦   ¦   ¦   ¦       use-btn.json
+¦   ¦   ¦   ¦   ¦       use-btn.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---btn-dropdown
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBtnDropdown.js
+¦   ¦   ¦   ¦   ¦       QBtnDropdown.json
+¦   ¦   ¦   ¦   ¦       QBtnDropdown.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---btn-group
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBtnGroup.js
+¦   ¦   ¦   ¦   ¦       QBtnGroup.json
+¦   ¦   ¦   ¦   ¦       QBtnGroup.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---btn-toggle
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QBtnToggle.js
+¦   ¦   ¦   ¦   ¦       QBtnToggle.json
+¦   ¦   ¦   ¦   ¦       QBtnToggle.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---card
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QCard.js
+¦   ¦   ¦   ¦   ¦       QCard.json
+¦   ¦   ¦   ¦   ¦       QCard.sass
+¦   ¦   ¦   ¦   ¦       QCardActions.js
+¦   ¦   ¦   ¦   ¦       QCardActions.json
+¦   ¦   ¦   ¦   ¦       QCardSection.js
+¦   ¦   ¦   ¦   ¦       QCardSection.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---carousel
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QCarousel.js
+¦   ¦   ¦   ¦   ¦       QCarousel.json
+¦   ¦   ¦   ¦   ¦       QCarousel.sass
+¦   ¦   ¦   ¦   ¦       QCarouselControl.js
+¦   ¦   ¦   ¦   ¦       QCarouselControl.json
+¦   ¦   ¦   ¦   ¦       QCarouselSlide.js
+¦   ¦   ¦   ¦   ¦       QCarouselSlide.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---chat
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QChatMessage.js
+¦   ¦   ¦   ¦   ¦       QChatMessage.json
+¦   ¦   ¦   ¦   ¦       QChatMessage.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---checkbox
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QCheckbox.js
+¦   ¦   ¦   ¦   ¦       QCheckbox.json
+¦   ¦   ¦   ¦   ¦       QCheckbox.sass
+¦   ¦   ¦   ¦   ¦       use-checkbox.js
+¦   ¦   ¦   ¦   ¦       use-checkbox.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---chip
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QChip.js
+¦   ¦   ¦   ¦   ¦       QChip.json
+¦   ¦   ¦   ¦   ¦       QChip.sass
+¦   ¦   ¦   ¦   ¦       QChip.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---circular-progress
+¦   ¦   ¦   ¦   ¦       circular-progress.js
+¦   ¦   ¦   ¦   ¦       circular-progress.test.js
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QCircularProgress.js
+¦   ¦   ¦   ¦   ¦       QCircularProgress.json
+¦   ¦   ¦   ¦   ¦       QCircularProgress.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---color
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QColor.js
+¦   ¦   ¦   ¦   ¦       QColor.json
+¦   ¦   ¦   ¦   ¦       QColor.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---date
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QDate.js
+¦   ¦   ¦   ¦   ¦       QDate.json
+¦   ¦   ¦   ¦   ¦       QDate.sass
+¦   ¦   ¦   ¦   ¦       use-datetime.js
+¦   ¦   ¦   ¦   ¦       use-datetime.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---dialog
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   QDialog.js
+¦   ¦   ¦   ¦   ¦   ¦   QDialog.json
+¦   ¦   ¦   ¦   ¦   ¦   QDialog.sass
+¦   ¦   ¦   ¦   ¦   ¦   QDialog.test.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---test
+¦   ¦   ¦   ¦   ¦           DialogWrapper.vue
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---drawer
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QDrawer.js
+¦   ¦   ¦   ¦   ¦       QDrawer.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---editor
+¦   ¦   ¦   ¦   ¦       editor-caret.js
+¦   ¦   ¦   ¦   ¦       editor-utils.js
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QEditor.js
+¦   ¦   ¦   ¦   ¦       QEditor.json
+¦   ¦   ¦   ¦   ¦       QEditor.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---expansion-item
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QExpansionItem.js
+¦   ¦   ¦   ¦   ¦       QExpansionItem.json
+¦   ¦   ¦   ¦   ¦       QExpansionItem.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---fab
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QFab.js
+¦   ¦   ¦   ¦   ¦       QFab.json
+¦   ¦   ¦   ¦   ¦       QFab.sass
+¦   ¦   ¦   ¦   ¦       QFabAction.js
+¦   ¦   ¦   ¦   ¦       QFabAction.json
+¦   ¦   ¦   ¦   ¦       use-fab.js
+¦   ¦   ¦   ¦   ¦       use-fab.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---field
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QField.js
+¦   ¦   ¦   ¦   ¦       QField.json
+¦   ¦   ¦   ¦   ¦       QField.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QFile.js
+¦   ¦   ¦   ¦   ¦       QFile.json
+¦   ¦   ¦   ¦   ¦       QFile.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---footer
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QFooter.js
+¦   ¦   ¦   ¦   ¦       QFooter.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---form
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QForm.js
+¦   ¦   ¦   ¦   ¦       QForm.json
+¦   ¦   ¦   ¦   ¦       QForm.sass
+¦   ¦   ¦   ¦   ¦       QFormChildMixin.js
+¦   ¦   ¦   ¦   ¦       QFormChildMixin.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---header
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QHeader.js
+¦   ¦   ¦   ¦   ¦       QHeader.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---icon
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QIcon.js
+¦   ¦   ¦   ¦   ¦       QIcon.json
+¦   ¦   ¦   ¦   ¦       QIcon.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---img
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QImg.js
+¦   ¦   ¦   ¦   ¦       QImg.json
+¦   ¦   ¦   ¦   ¦       QImg.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---infinite-scroll
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QInfiniteScroll.js
+¦   ¦   ¦   ¦   ¦       QInfiniteScroll.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---inner-loading
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QInnerLoading.js
+¦   ¦   ¦   ¦   ¦       QInnerLoading.json
+¦   ¦   ¦   ¦   ¦       QInnerLoading.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---input
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QInput.js
+¦   ¦   ¦   ¦   ¦       QInput.json
+¦   ¦   ¦   ¦   ¦       QInput.sass
+¦   ¦   ¦   ¦   ¦       use-mask.js
+¦   ¦   ¦   ¦   ¦       use-mask.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---intersection
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QIntersection.js
+¦   ¦   ¦   ¦   ¦       QIntersection.json
+¦   ¦   ¦   ¦   ¦       QIntersection.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---item
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QItem.js
+¦   ¦   ¦   ¦   ¦       QItem.json
+¦   ¦   ¦   ¦   ¦       QItem.sass
+¦   ¦   ¦   ¦   ¦       QItemLabel.js
+¦   ¦   ¦   ¦   ¦       QItemLabel.json
+¦   ¦   ¦   ¦   ¦       QItemSection.js
+¦   ¦   ¦   ¦   ¦       QItemSection.json
+¦   ¦   ¦   ¦   ¦       QList.js
+¦   ¦   ¦   ¦   ¦       QList.json
+¦   ¦   ¦   ¦   ¦       QList.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---knob
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QKnob.js
+¦   ¦   ¦   ¦   ¦       QKnob.json
+¦   ¦   ¦   ¦   ¦       QKnob.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---layout
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QLayout.js
+¦   ¦   ¦   ¦   ¦       QLayout.json
+¦   ¦   ¦   ¦   ¦       QLayout.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---linear-progress
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QLinearProgress.js
+¦   ¦   ¦   ¦   ¦       QLinearProgress.json
+¦   ¦   ¦   ¦   ¦       QLinearProgress.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---markup-table
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QMarkupTable.js
+¦   ¦   ¦   ¦   ¦       QMarkupTable.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---menu
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QMenu.js
+¦   ¦   ¦   ¦   ¦       QMenu.json
+¦   ¦   ¦   ¦   ¦       QMenu.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---no-ssr
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QNoSsr.js
+¦   ¦   ¦   ¦   ¦       QNoSsr.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---option-group
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QOptionGroup.js
+¦   ¦   ¦   ¦   ¦       QOptionGroup.json
+¦   ¦   ¦   ¦   ¦       QOptionGroup.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---page
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPage.js
+¦   ¦   ¦   ¦   ¦       QPage.json
+¦   ¦   ¦   ¦   ¦       QPageContainer.js
+¦   ¦   ¦   ¦   ¦       QPageContainer.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---page-scroller
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPageScroller.js
+¦   ¦   ¦   ¦   ¦       QPageScroller.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---page-sticky
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPageSticky.js
+¦   ¦   ¦   ¦   ¦       QPageSticky.json
+¦   ¦   ¦   ¦   ¦       use-page-sticky.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---pagination
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPagination.js
+¦   ¦   ¦   ¦   ¦       QPagination.json
+¦   ¦   ¦   ¦   ¦       QPagination.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---parallax
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QParallax.js
+¦   ¦   ¦   ¦   ¦       QParallax.json
+¦   ¦   ¦   ¦   ¦       QParallax.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---popup-edit
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPopupEdit.js
+¦   ¦   ¦   ¦   ¦       QPopupEdit.json
+¦   ¦   ¦   ¦   ¦       QPopupEdit.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---popup-proxy
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPopupProxy.js
+¦   ¦   ¦   ¦   ¦       QPopupProxy.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---pull-to-refresh
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QPullToRefresh.js
+¦   ¦   ¦   ¦   ¦       QPullToRefresh.json
+¦   ¦   ¦   ¦   ¦       QPullToRefresh.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---radio
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QRadio.js
+¦   ¦   ¦   ¦   ¦       QRadio.json
+¦   ¦   ¦   ¦   ¦       QRadio.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---range
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QRange.js
+¦   ¦   ¦   ¦   ¦       QRange.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---rating
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QRating.js
+¦   ¦   ¦   ¦   ¦       QRating.json
+¦   ¦   ¦   ¦   ¦       QRating.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---resize-observer
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QResizeObserver.js
+¦   ¦   ¦   ¦   ¦       QResizeObserver.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---responsive
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QResponsive.js
+¦   ¦   ¦   ¦   ¦       QResponsive.json
+¦   ¦   ¦   ¦   ¦       QResponsive.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scroll-area
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QScrollArea.js
+¦   ¦   ¦   ¦   ¦       QScrollArea.json
+¦   ¦   ¦   ¦   ¦       QScrollArea.sass
+¦   ¦   ¦   ¦   ¦       ScrollAreaControls.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scroll-observer
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QScrollObserver.js
+¦   ¦   ¦   ¦   ¦       QScrollObserver.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---select
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSelect.js
+¦   ¦   ¦   ¦   ¦       QSelect.json
+¦   ¦   ¦   ¦   ¦       QSelect.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---separator
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSeparator.js
+¦   ¦   ¦   ¦   ¦       QSeparator.json
+¦   ¦   ¦   ¦   ¦       QSeparator.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---skeleton
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSkeleton.js
+¦   ¦   ¦   ¦   ¦       QSkeleton.json
+¦   ¦   ¦   ¦   ¦       QSkeleton.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---slide-item
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSlideItem.js
+¦   ¦   ¦   ¦   ¦       QSlideItem.json
+¦   ¦   ¦   ¦   ¦       QSlideItem.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---slide-transition
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSlideTransition.js
+¦   ¦   ¦   ¦   ¦       QSlideTransition.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---slider
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSlider.js
+¦   ¦   ¦   ¦   ¦       QSlider.json
+¦   ¦   ¦   ¦   ¦       QSlider.sass
+¦   ¦   ¦   ¦   ¦       use-slider.js
+¦   ¦   ¦   ¦   ¦       use-slider.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---space
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSpace.js
+¦   ¦   ¦   ¦   ¦       QSpace.json
+¦   ¦   ¦   ¦   ¦       QSpace.sass
+¦   ¦   ¦   ¦   ¦       QSpace.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---spinner
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSpinner.js
+¦   ¦   ¦   ¦   ¦       QSpinner.json
+¦   ¦   ¦   ¦   ¦       QSpinner.sass
+¦   ¦   ¦   ¦   ¦       QSpinner.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerAudio.js
+¦   ¦   ¦   ¦   ¦       QSpinnerAudio.json
+¦   ¦   ¦   ¦   ¦       QSpinnerAudio.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBall.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBall.json
+¦   ¦   ¦   ¦   ¦       QSpinnerBall.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBars.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBars.json
+¦   ¦   ¦   ¦   ¦       QSpinnerBars.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBox.js
+¦   ¦   ¦   ¦   ¦       QSpinnerBox.json
+¦   ¦   ¦   ¦   ¦       QSpinnerBox.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerClock.js
+¦   ¦   ¦   ¦   ¦       QSpinnerClock.json
+¦   ¦   ¦   ¦   ¦       QSpinnerClock.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerComment.js
+¦   ¦   ¦   ¦   ¦       QSpinnerComment.json
+¦   ¦   ¦   ¦   ¦       QSpinnerComment.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerCube.js
+¦   ¦   ¦   ¦   ¦       QSpinnerCube.json
+¦   ¦   ¦   ¦   ¦       QSpinnerCube.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerDots.js
+¦   ¦   ¦   ¦   ¦       QSpinnerDots.json
+¦   ¦   ¦   ¦   ¦       QSpinnerDots.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerFacebook.js
+¦   ¦   ¦   ¦   ¦       QSpinnerFacebook.json
+¦   ¦   ¦   ¦   ¦       QSpinnerFacebook.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerGears.js
+¦   ¦   ¦   ¦   ¦       QSpinnerGears.json
+¦   ¦   ¦   ¦   ¦       QSpinnerGears.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerGrid.js
+¦   ¦   ¦   ¦   ¦       QSpinnerGrid.json
+¦   ¦   ¦   ¦   ¦       QSpinnerGrid.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerHearts.js
+¦   ¦   ¦   ¦   ¦       QSpinnerHearts.json
+¦   ¦   ¦   ¦   ¦       QSpinnerHearts.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerHourglass.js
+¦   ¦   ¦   ¦   ¦       QSpinnerHourglass.json
+¦   ¦   ¦   ¦   ¦       QSpinnerHourglass.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerInfinity.js
+¦   ¦   ¦   ¦   ¦       QSpinnerInfinity.json
+¦   ¦   ¦   ¦   ¦       QSpinnerInfinity.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerIos.js
+¦   ¦   ¦   ¦   ¦       QSpinnerIos.json
+¦   ¦   ¦   ¦   ¦       QSpinnerIos.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerOrbit.js
+¦   ¦   ¦   ¦   ¦       QSpinnerOrbit.json
+¦   ¦   ¦   ¦   ¦       QSpinnerOrbit.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerOval.js
+¦   ¦   ¦   ¦   ¦       QSpinnerOval.json
+¦   ¦   ¦   ¦   ¦       QSpinnerOval.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerPie.js
+¦   ¦   ¦   ¦   ¦       QSpinnerPie.json
+¦   ¦   ¦   ¦   ¦       QSpinnerPie.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerPuff.js
+¦   ¦   ¦   ¦   ¦       QSpinnerPuff.json
+¦   ¦   ¦   ¦   ¦       QSpinnerPuff.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerRadio.js
+¦   ¦   ¦   ¦   ¦       QSpinnerRadio.json
+¦   ¦   ¦   ¦   ¦       QSpinnerRadio.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerRings.js
+¦   ¦   ¦   ¦   ¦       QSpinnerRings.json
+¦   ¦   ¦   ¦   ¦       QSpinnerRings.test.js
+¦   ¦   ¦   ¦   ¦       QSpinnerTail.js
+¦   ¦   ¦   ¦   ¦       QSpinnerTail.json
+¦   ¦   ¦   ¦   ¦       QSpinnerTail.test.js
+¦   ¦   ¦   ¦   ¦       spinner.json
+¦   ¦   ¦   ¦   ¦       use-spinner.js
+¦   ¦   ¦   ¦   ¦       use-spinner.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---splitter
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QSplitter.js
+¦   ¦   ¦   ¦   ¦       QSplitter.json
+¦   ¦   ¦   ¦   ¦       QSplitter.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---stepper
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QStep.js
+¦   ¦   ¦   ¦   ¦       QStep.json
+¦   ¦   ¦   ¦   ¦       QStepper.js
+¦   ¦   ¦   ¦   ¦       QStepper.json
+¦   ¦   ¦   ¦   ¦       QStepper.sass
+¦   ¦   ¦   ¦   ¦       QStepperNavigation.js
+¦   ¦   ¦   ¦   ¦       QStepperNavigation.json
+¦   ¦   ¦   ¦   ¦       StepHeader.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tab-panels
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTabPanel.js
+¦   ¦   ¦   ¦   ¦       QTabPanel.json
+¦   ¦   ¦   ¦   ¦       QTabPanel.sass
+¦   ¦   ¦   ¦   ¦       QTabPanels.js
+¦   ¦   ¦   ¦   ¦       QTabPanels.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---table
+¦   ¦   ¦   ¦   ¦       get-table-middle.js
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTable.js
+¦   ¦   ¦   ¦   ¦       QTable.json
+¦   ¦   ¦   ¦   ¦       QTable.sass
+¦   ¦   ¦   ¦   ¦       QTd.js
+¦   ¦   ¦   ¦   ¦       QTd.json
+¦   ¦   ¦   ¦   ¦       QTh.js
+¦   ¦   ¦   ¦   ¦       QTh.json
+¦   ¦   ¦   ¦   ¦       QTr.js
+¦   ¦   ¦   ¦   ¦       QTr.json
+¦   ¦   ¦   ¦   ¦       table-column-selection.js
+¦   ¦   ¦   ¦   ¦       table-filter.js
+¦   ¦   ¦   ¦   ¦       table-pagination.js
+¦   ¦   ¦   ¦   ¦       table-row-expand.js
+¦   ¦   ¦   ¦   ¦       table-row-selection.js
+¦   ¦   ¦   ¦   ¦       table-sort.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tabs
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QRouteTab.js
+¦   ¦   ¦   ¦   ¦       QRouteTab.json
+¦   ¦   ¦   ¦   ¦       QTab.js
+¦   ¦   ¦   ¦   ¦       QTab.json
+¦   ¦   ¦   ¦   ¦       QTabs.js
+¦   ¦   ¦   ¦   ¦       QTabs.json
+¦   ¦   ¦   ¦   ¦       QTabs.sass
+¦   ¦   ¦   ¦   ¦       use-tab.js
+¦   ¦   ¦   ¦   ¦       use-tab.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---time
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTime.js
+¦   ¦   ¦   ¦   ¦       QTime.json
+¦   ¦   ¦   ¦   ¦       QTime.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---timeline
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTimeline.js
+¦   ¦   ¦   ¦   ¦       QTimeline.json
+¦   ¦   ¦   ¦   ¦       QTimeline.sass
+¦   ¦   ¦   ¦   ¦       QTimelineEntry.js
+¦   ¦   ¦   ¦   ¦       QTimelineEntry.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---toggle
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QToggle.js
+¦   ¦   ¦   ¦   ¦       QToggle.json
+¦   ¦   ¦   ¦   ¦       QToggle.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---toolbar
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QToolbar.js
+¦   ¦   ¦   ¦   ¦       QToolbar.json
+¦   ¦   ¦   ¦   ¦       QToolbar.sass
+¦   ¦   ¦   ¦   ¦       QToolbar.test.js
+¦   ¦   ¦   ¦   ¦       QToolbarTitle.js
+¦   ¦   ¦   ¦   ¦       QToolbarTitle.json
+¦   ¦   ¦   ¦   ¦       QToolbarTitle.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tooltip
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTooltip.js
+¦   ¦   ¦   ¦   ¦       QTooltip.json
+¦   ¦   ¦   ¦   ¦       QTooltip.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tree
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QTree.js
+¦   ¦   ¦   ¦   ¦       QTree.json
+¦   ¦   ¦   ¦   ¦       QTree.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---uploader
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QUploader.js
+¦   ¦   ¦   ¦   ¦       QUploader.json
+¦   ¦   ¦   ¦   ¦       QUploader.sass
+¦   ¦   ¦   ¦   ¦       QUploaderAddTrigger.js
+¦   ¦   ¦   ¦   ¦       QUploaderAddTrigger.json
+¦   ¦   ¦   ¦   ¦       uploader-core.js
+¦   ¦   ¦   ¦   ¦       xhr-uploader-plugin.js
+¦   ¦   ¦   ¦   ¦       xhr-uploader-plugin.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---video
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       QVideo.js
+¦   ¦   ¦   ¦   ¦       QVideo.json
+¦   ¦   ¦   ¦   ¦       QVideo.sass
+¦   ¦   ¦   ¦   ¦       QVideo.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---virtual-scroll
+¦   ¦   ¦   ¦           index.js
+¦   ¦   ¦   ¦           QVirtualScroll.js
+¦   ¦   ¦   ¦           QVirtualScroll.json
+¦   ¦   ¦   ¦           QVirtualScroll.sass
+¦   ¦   ¦   ¦           use-virtual-scroll.js
+¦   ¦   ¦   ¦           use-virtual-scroll.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---composables
+¦   ¦   ¦   ¦   +---private.use-align
+¦   ¦   ¦   ¦   ¦       use-align.js
+¦   ¦   ¦   ¦   ¦       use-align.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-anchor
+¦   ¦   ¦   ¦   ¦       use-anchor-static.json
+¦   ¦   ¦   ¦   ¦       use-anchor.js
+¦   ¦   ¦   ¦   ¦       use-anchor.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-dark
+¦   ¦   ¦   ¦   ¦       use-dark.js
+¦   ¦   ¦   ¦   ¦       use-dark.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-field
+¦   ¦   ¦   ¦   ¦       use-field.js
+¦   ¦   ¦   ¦   ¦       use-field.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-file
+¦   ¦   ¦   ¦   ¦       use-file-dom-props.js
+¦   ¦   ¦   ¦   ¦       use-file.js
+¦   ¦   ¦   ¦   ¦       use-file.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-fullscreen
+¦   ¦   ¦   ¦   ¦       use-fullscreen.js
+¦   ¦   ¦   ¦   ¦       use-fullscreen.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-history
+¦   ¦   ¦   ¦   ¦       use-history.js
+¦   ¦   ¦   ¦   ¦       use-history.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-key-composition
+¦   ¦   ¦   ¦   ¦       use-key-composition.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-model-toggle
+¦   ¦   ¦   ¦   ¦       use-model-toggle.js
+¦   ¦   ¦   ¦   ¦       use-model-toggle.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-panel
+¦   ¦   ¦   ¦   ¦       use-panel.child.json
+¦   ¦   ¦   ¦   ¦       use-panel.js
+¦   ¦   ¦   ¦   ¦       use-panel.json
+¦   ¦   ¦   ¦   ¦       use-panel.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-portal
+¦   ¦   ¦   ¦   ¦       use-portal.js
+¦   ¦   ¦   ¦   ¦       use-portal.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-prevent-scroll
+¦   ¦   ¦   ¦   ¦       use-prevent-scroll.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-ratio
+¦   ¦   ¦   ¦   ¦       use-ratio.js
+¦   ¦   ¦   ¦   ¦       use-ratio.json
+¦   ¦   ¦   ¦   ¦       use-ratio.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-refocus-target
+¦   ¦   ¦   ¦   ¦       use-refocus-target.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-router-link
+¦   ¦   ¦   ¦   ¦       use-router-link.js
+¦   ¦   ¦   ¦   ¦       use-router-link.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-scroll-target
+¦   ¦   ¦   ¦   ¦       use-scroll-target.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-size
+¦   ¦   ¦   ¦   ¦       use-size.js
+¦   ¦   ¦   ¦   ¦       use-size.json
+¦   ¦   ¦   ¦   ¦       use-size.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-transition
+¦   ¦   ¦   ¦   ¦       use-transition.js
+¦   ¦   ¦   ¦   ¦       use-transition.json
+¦   ¦   ¦   ¦   ¦       use-transition.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.use-validate
+¦   ¦   ¦   ¦   ¦       use-validate.js
+¦   ¦   ¦   ¦   ¦       use-validate.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-dialog-plugin-component
+¦   ¦   ¦   ¦   ¦       use-dialog-plugin-component.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-form
+¦   ¦   ¦   ¦   ¦       private.use-form.js
+¦   ¦   ¦   ¦   ¦       private.use-form.json
+¦   ¦   ¦   ¦   ¦       private.use-form.test.js
+¦   ¦   ¦   ¦   ¦       use-form-child.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-hydration
+¦   ¦   ¦   ¦   ¦       use-hydration.js
+¦   ¦   ¦   ¦   ¦       use-hydration.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-id
+¦   ¦   ¦   ¦   ¦       use-id.js
+¦   ¦   ¦   ¦   ¦       use-id.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-interval
+¦   ¦   ¦   ¦   ¦       use-interval.js
+¦   ¦   ¦   ¦   ¦       use-interval.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-meta
+¦   ¦   ¦   ¦   ¦       use-meta.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-quasar
+¦   ¦   ¦   ¦   ¦       use-quasar.js
+¦   ¦   ¦   ¦   ¦       use-quasar.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-render-cache
+¦   ¦   ¦   ¦   ¦       use-render-cache.js
+¦   ¦   ¦   ¦   ¦       use-render-cache.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-split-attrs
+¦   ¦   ¦   ¦   ¦       use-split-attrs.js
+¦   ¦   ¦   ¦   ¦       use-split-attrs.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-tick
+¦   ¦   ¦   ¦   ¦       use-tick.js
+¦   ¦   ¦   ¦   ¦       use-tick.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---use-timeout
+¦   ¦   ¦   ¦           use-timeout.js
+¦   ¦   ¦   ¦           use-timeout.test.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---css
+¦   ¦   ¦   ¦   ¦   flex-addon.sass
+¦   ¦   ¦   ¦   ¦   index.sass
+¦   ¦   ¦   ¦   ¦   normalize.sass
+¦   ¦   ¦   ¦   ¦   variables.sass
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   ¦       animations.sass
+¦   ¦   ¦   ¦   ¦       colors.sass
+¦   ¦   ¦   ¦   ¦       dark.sass
+¦   ¦   ¦   ¦   ¦       elevation.sass
+¦   ¦   ¦   ¦   ¦       flex.sass
+¦   ¦   ¦   ¦   ¦       helpers.sass
+¦   ¦   ¦   ¦   ¦       mouse.sass
+¦   ¦   ¦   ¦   ¦       orientation.sass
+¦   ¦   ¦   ¦   ¦       positioning.sass
+¦   ¦   ¦   ¦   ¦       size.sass
+¦   ¦   ¦   ¦   ¦       touch.sass
+¦   ¦   ¦   ¦   ¦       transitions.sass
+¦   ¦   ¦   ¦   ¦       typography.sass
+¦   ¦   ¦   ¦   ¦       visibility.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦           math.sass
+¦   ¦   ¦   ¦           string.sass
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---directives
+¦   ¦   ¦   ¦   +---close-popup
+¦   ¦   ¦   ¦   ¦       ClosePopup.js
+¦   ¦   ¦   ¦   ¦       ClosePopup.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---intersection
+¦   ¦   ¦   ¦   ¦       Intersection.js
+¦   ¦   ¦   ¦   ¦       Intersection.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---morph
+¦   ¦   ¦   ¦   ¦       Morph.js
+¦   ¦   ¦   ¦   ¦       Morph.json
+¦   ¦   ¦   ¦   ¦       Morph.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mutation
+¦   ¦   ¦   ¦   ¦       Mutation.js
+¦   ¦   ¦   ¦   ¦       Mutation.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---ripple
+¦   ¦   ¦   ¦   ¦       Ripple.js
+¦   ¦   ¦   ¦   ¦       Ripple.json
+¦   ¦   ¦   ¦   ¦       Ripple.sass
+¦   ¦   ¦   ¦   ¦       Ripple.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scroll
+¦   ¦   ¦   ¦   ¦       Scroll.js
+¦   ¦   ¦   ¦   ¦       Scroll.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scroll-fire
+¦   ¦   ¦   ¦   ¦       ScrollFire.js
+¦   ¦   ¦   ¦   ¦       ScrollFire.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---touch-hold
+¦   ¦   ¦   ¦   ¦       TouchHold.js
+¦   ¦   ¦   ¦   ¦       TouchHold.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---touch-pan
+¦   ¦   ¦   ¦   ¦       TouchPan.js
+¦   ¦   ¦   ¦   ¦       TouchPan.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---touch-repeat
+¦   ¦   ¦   ¦   ¦       TouchRepeat.js
+¦   ¦   ¦   ¦   ¦       TouchRepeat.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---touch-swipe
+¦   ¦   ¦   ¦           TouchSwipe.js
+¦   ¦   ¦   ¦           TouchSwipe.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   +---addressbar
+¦   ¦   ¦   ¦   ¦       AddressbarColor.js
+¦   ¦   ¦   ¦   ¦       AddressbarColor.json
+¦   ¦   ¦   ¦   ¦       AddressbarColor.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---app-fullscreen
+¦   ¦   ¦   ¦   ¦   ¦   AppFullscreen.js
+¦   ¦   ¦   ¦   ¦   ¦   AppFullscreen.json
+¦   ¦   ¦   ¦   ¦   ¦   AppFullscreen.test.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---test
+¦   ¦   ¦   ¦   ¦           mock-fullscreen.js
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---app-visibility
+¦   ¦   ¦   ¦   ¦       AppVisibility.js
+¦   ¦   ¦   ¦   ¦       AppVisibility.json
+¦   ¦   ¦   ¦   ¦       AppVisibility.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---bottom-sheet
+¦   ¦   ¦   ¦   ¦   ¦   BottomSheet.js
+¦   ¦   ¦   ¦   ¦   ¦   BottomSheet.json
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---component
+¦   ¦   ¦   ¦   ¦           BottomSheetComponent.js
+¦   ¦   ¦   ¦   ¦           BottomSheetComponent.sass
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---cookies
+¦   ¦   ¦   ¦   ¦       Cookies.js
+¦   ¦   ¦   ¦   ¦       Cookies.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---dark
+¦   ¦   ¦   ¦   ¦       Dark.js
+¦   ¦   ¦   ¦   ¦       Dark.json
+¦   ¦   ¦   ¦   ¦       Dark.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---dialog
+¦   ¦   ¦   ¦   ¦   ¦   Dialog.js
+¦   ¦   ¦   ¦   ¦   ¦   Dialog.json
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---component
+¦   ¦   ¦   ¦   ¦           DialogPluginComponent.js
+¦   ¦   ¦   ¦   ¦           DialogPluginComponent.sass
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---icon-set
+¦   ¦   ¦   ¦   ¦       IconSet.js
+¦   ¦   ¦   ¦   ¦       IconSet.json
+¦   ¦   ¦   ¦   ¦       IconSet.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---lang
+¦   ¦   ¦   ¦   ¦       Lang.js
+¦   ¦   ¦   ¦   ¦       Lang.json
+¦   ¦   ¦   ¦   ¦       Lang.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---loading
+¦   ¦   ¦   ¦   ¦       Loading.js
+¦   ¦   ¦   ¦   ¦       Loading.json
+¦   ¦   ¦   ¦   ¦       Loading.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---loading-bar
+¦   ¦   ¦   ¦   ¦       LoadingBar.js
+¦   ¦   ¦   ¦   ¦       LoadingBar.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---meta
+¦   ¦   ¦   ¦   ¦       Meta.js
+¦   ¦   ¦   ¦   ¦       Meta.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---notify
+¦   ¦   ¦   ¦   ¦       Notify.js
+¦   ¦   ¦   ¦   ¦       Notify.json
+¦   ¦   ¦   ¦   ¦       Notify.sass
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---platform
+¦   ¦   ¦   ¦   ¦       Platform.js
+¦   ¦   ¦   ¦   ¦       Platform.json
+¦   ¦   ¦   ¦   ¦       Platform.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.body
+¦   ¦   ¦   ¦   ¦       Body.js
+¦   ¦   ¦   ¦   ¦       Body.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---private.history
+¦   ¦   ¦   ¦   ¦       History.js
+¦   ¦   ¦   ¦   ¦       History.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---screen
+¦   ¦   ¦   ¦   ¦       Screen.js
+¦   ¦   ¦   ¦   ¦       Screen.json
+¦   ¦   ¦   ¦   ¦       Screen.test.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---storage
+¦   ¦   ¦   ¦       ¦   LocalStorage.js
+¦   ¦   ¦   ¦       ¦   LocalStorage.json
+¦   ¦   ¦   ¦       ¦   LocalStorage.test.js
+¦   ¦   ¦   ¦       ¦   SessionStorage.js
+¦   ¦   ¦   ¦       ¦   SessionStorage.json
+¦   ¦   ¦   ¦       ¦   SessionStorage.test.js
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---engine
+¦   ¦   ¦   ¦               web-storage.js
+¦   ¦   ¦   ¦               web-storage.json
+¦   ¦   ¦   ¦               web-storage.test.js
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---utils
+¦   ¦   ¦       +---clone
+¦   ¦   ¦       ¦       clone.js
+¦   ¦   ¦       ¦       clone.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---colors
+¦   ¦   ¦       ¦       colors.js
+¦   ¦   ¦       ¦       colors.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---copy-to-clipboard
+¦   ¦   ¦       ¦       copy-to-clipboard.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---create-meta-mixin
+¦   ¦   ¦       ¦       create-meta-mixin.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---create-uploader-component
+¦   ¦   ¦       ¦       create-uploader-component.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---css-var
+¦   ¦   ¦       ¦       get-css-var.js
+¦   ¦   ¦       ¦       get-css-var.test.js
+¦   ¦   ¦       ¦       set-css-var.js
+¦   ¦   ¦       ¦       set-css-var.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---date
+¦   ¦   ¦       ¦       date.js
+¦   ¦   ¦       ¦       private.persian.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---debounce
+¦   ¦   ¦       ¦       debounce.js
+¦   ¦   ¦       ¦       debounce.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---dom
+¦   ¦   ¦       ¦       dom.js
+¦   ¦   ¦       ¦       dom.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---event
+¦   ¦   ¦       ¦       event.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---EventBus
+¦   ¦   ¦       ¦       EventBus.js
+¦   ¦   ¦       ¦       EventBus.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---export-file
+¦   ¦   ¦       ¦       export-file.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---extend
+¦   ¦   ¦       ¦       extend.js
+¦   ¦   ¦       ¦       extend.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---format
+¦   ¦   ¦       ¦       format.js
+¦   ¦   ¦       ¦       format.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---frame-debounce
+¦   ¦   ¦       ¦       frame-debounce.js
+¦   ¦   ¦       ¦       frame-debounce.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---is
+¦   ¦   ¦       ¦       is.js
+¦   ¦   ¦       ¦       is.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---morph
+¦   ¦   ¦       ¦       morph.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---open-url
+¦   ¦   ¦       ¦       open-url.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---patterns
+¦   ¦   ¦       ¦       patterns.js
+¦   ¦   ¦       ¦       patterns.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.click-outside
+¦   ¦   ¦       ¦       click-outside.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.config
+¦   ¦   ¦       ¦       instance-config.js
+¦   ¦   ¦       ¦       instance-config.test.js
+¦   ¦   ¦       ¦       nodes.js
+¦   ¦   ¦       ¦       nodes.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.create
+¦   ¦   ¦       ¦       create.js
+¦   ¦   ¦       ¦       create.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.dialog
+¦   ¦   ¦       ¦       create-dialog.js
+¦   ¦   ¦       ¦       create-dialog.json
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.focus
+¦   ¦   ¦       ¦       focus-manager.js
+¦   ¦   ¦       ¦       focus-manager.test.js
+¦   ¦   ¦       ¦       focusout.js
+¦   ¦   ¦       ¦       focusout.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.get-emits-object
+¦   ¦   ¦       ¦       get-emits-object.js
+¦   ¦   ¦       ¦       get-emits-object.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.inject-obj-prop
+¦   ¦   ¦       ¦       inject-obj-prop.js
+¦   ¦   ¦       ¦       inject-obj-prop.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.keyboard
+¦   ¦   ¦       ¦       escape-key.js
+¦   ¦   ¦       ¦       escape-key.test.js
+¦   ¦   ¦       ¦       key-composition.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.noop-ssr-directive-transform
+¦   ¦   ¦       ¦       noop-ssr-directive-transform.js
+¦   ¦   ¦       ¦       noop-ssr-directive-transform.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.option-sizes
+¦   ¦   ¦       ¦       option-sizes.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.portal
+¦   ¦   ¦       ¦       portal.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.position-engine
+¦   ¦   ¦       ¦       position-engine.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.render
+¦   ¦   ¦       ¦       render.js
+¦   ¦   ¦       ¦       render.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.rtl
+¦   ¦   ¦       ¦       rtl.js
+¦   ¦   ¦       ¦       rtl.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.selection
+¦   ¦   ¦       ¦       selection.js
+¦   ¦   ¦       ¦       selection.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.sort
+¦   ¦   ¦       ¦       sort.js
+¦   ¦   ¦       ¦       sort.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.symbols
+¦   ¦   ¦       ¦       symbols.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.touch
+¦   ¦   ¦       ¦       touch.js
+¦   ¦   ¦       ¦       touch.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---private.vm
+¦   ¦   ¦       ¦       vm.js
+¦   ¦   ¦       ¦       vm.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---run-sequential-promises
+¦   ¦   ¦       ¦       run-sequential-promises.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---scroll
+¦   ¦   ¦       ¦       prevent-scroll.js
+¦   ¦   ¦       ¦       scroll.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---throttle
+¦   ¦   ¦       ¦       throttle.js
+¦   ¦   ¦       ¦       throttle.test.js
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---uid
+¦   ¦   ¦               uid.js
+¦   ¦   ¦               uid.test.js
+¦   ¦   ¦               
+¦   ¦   +---wrappers
+¦   ¦           index.cjs
+¦   ¦           index.js
+¦   ¦           
+¦   +---rollup
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦       ¦   getLogFilter.d.ts
+¦   ¦       ¦   getLogFilter.js
+¦   ¦       ¦   loadConfigFile.d.ts
+¦   ¦       ¦   loadConfigFile.js
+¦   ¦       ¦   native.js
+¦   ¦       ¦   parseAst.d.ts
+¦   ¦       ¦   parseAst.js
+¦   ¦       ¦   rollup.d.ts
+¦   ¦       ¦   rollup.js
+¦   ¦       ¦   
+¦   ¦       +---bin
+¦   ¦       ¦       rollup
+¦   ¦       ¦       
+¦   ¦       +---es
+¦   ¦       ¦   ¦   getLogFilter.js
+¦   ¦       ¦   ¦   package.json
+¦   ¦       ¦   ¦   parseAst.js
+¦   ¦       ¦   ¦   rollup.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---shared
+¦   ¦       ¦           node-entry.js
+¦   ¦       ¦           parseAst.js
+¦   ¦       ¦           watch.js
+¦   ¦       ¦           
+¦   ¦       +---shared
+¦   ¦               fsevents-importer.js
+¦   ¦               index.js
+¦   ¦               loadConfigFile.js
+¦   ¦               parseAst.js
+¦   ¦               rollup.js
+¦   ¦               watch-cli.js
+¦   ¦               watch.js
+¦   ¦               
+¦   +---source-map-js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   source-map.d.ts
+¦   ¦   ¦   source-map.js
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           array-set.js
+¦   ¦           base64-vlq.js
+¦   ¦           base64.js
+¦   ¦           binary-search.js
+¦   ¦           mapping-list.js
+¦   ¦           quick-sort.js
+¦   ¦           source-map-consumer.d.ts
+¦   ¦           source-map-consumer.js
+¦   ¦           source-map-generator.d.ts
+¦   ¦           source-map-generator.js
+¦   ¦           source-node.d.ts
+¦   ¦           source-node.js
+¦   ¦           util.js
+¦   ¦           
+¦   +---tinyglobby
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           index.d.mts
+¦   ¦           index.d.ts
+¦   ¦           index.js
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---vite
+¦   ¦   ¦   client.d.ts
+¦   ¦   ¦   index.cjs
+¦   ¦   ¦   index.d.cts
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       openChrome.applescript
+¦   ¦   ¦       vite.js
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦       client.mjs
+¦   ¦   ¦   ¦       env.mjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   cli.js
+¦   ¦   ¦   ¦   ¦   constants.js
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   module-runner.d.ts
+¦   ¦   ¦   ¦   ¦   module-runner.js
+¦   ¦   ¦   ¦   ¦   moduleRunnerTransport.d-DJ_mE5sf.d.ts
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   ¦           dep-3RmXg9uo.js
+¦   ¦   ¦   ¦           dep-AiMcmC_f.js
+¦   ¦   ¦   ¦           dep-CvfTChi5.js
+¦   ¦   ¦   ¦           dep-DBxKXgDP.js
+¦   ¦   ¦   ¦           dep-SgSik2vo.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---node-cjs
+¦   ¦   ¦           publicUtils.cjs
+¦   ¦   ¦           
+¦   ¦   +---misc
+¦   ¦   ¦       false.js
+¦   ¦   ¦       true.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦       ¦   customEvent.d.ts
+¦   ¦       ¦   hmrPayload.d.ts
+¦   ¦       ¦   hot.d.ts
+¦   ¦       ¦   import-meta.d.ts
+¦   ¦       ¦   importGlob.d.ts
+¦   ¦       ¦   importMeta.d.ts
+¦   ¦       ¦   metadata.d.ts
+¦   ¦       ¦   package.json
+¦   ¦       ¦   
+¦   ¦       +---internal
+¦   ¦               cssPreprocessorOptions.d.ts
+¦   ¦               lightningcssOptions.d.ts
+¦   ¦               
+¦   +---vue
+¦       ¦   index.js
+¦       ¦   index.mjs
+¦       ¦   jsx.d.ts
+¦       ¦   LICENSE
+¦       ¦   package.json
+¦       ¦   README.md
+¦       ¦   
+¦       +---compiler-sfc
+¦       ¦       index.browser.js
+¦       ¦       index.browser.mjs
+¦       ¦       index.d.mts
+¦       ¦       index.d.ts
+¦       ¦       index.js
+¦       ¦       index.mjs
+¦       ¦       package.json
+¦       ¦       register-ts.js
+¦       ¦       
+¦       +---dist
+¦       ¦       vue.cjs.js
+¦       ¦       vue.cjs.prod.js
+¦       ¦       vue.d.mts
+¦       ¦       vue.d.ts
+¦       ¦       vue.esm-browser.js
+¦       ¦       vue.esm-browser.prod.js
+¦       ¦       vue.esm-bundler.js
+¦       ¦       vue.global.js
+¦       ¦       vue.global.prod.js
+¦       ¦       vue.runtime.esm-browser.js
+¦       ¦       vue.runtime.esm-browser.prod.js
+¦       ¦       vue.runtime.esm-bundler.js
+¦       ¦       vue.runtime.global.js
+¦       ¦       vue.runtime.global.prod.js
+¦       ¦       
+¦       +---jsx-runtime
+¦       ¦       index.d.ts
+¦       ¦       index.js
+¦       ¦       index.mjs
+¦       ¦       package.json
+¦       ¦       
+¦       +---server-renderer
+¦               index.d.mts
+¦               index.d.ts
+¦               index.js
+¦               index.mjs
+¦               package.json
+¦               
++---src
+    +---components
+    ¦       BaseCheckbox.vue
+    ¦       EssentialLink.vue
+    ¦       NavItem.vue
+    ¦       TagInput.vue
+    ¦       UInput.vue
+    ¦       
+    +---utils
+    ¦       external-links.js
+    ¦       notification-functions.js
+    ¦       notification-queue.js
+    ¦       notify-messages.js
+    ¦       
+    +---validations
+            auth-validations.js
+            auth.js
+            base-validations.js
+            profile-validations.js
+            reports-validations.js
+            suggestions-validations.js
+            
