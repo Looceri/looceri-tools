@@ -1,6 +1,6 @@
 {
   "name": "looceri-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue.js component library with Quasar for reusable UI components and utilities",
   "main": "dist/looceri-tools.cjs.js",
   "module": "dist/looceri-tools.esm.js",
